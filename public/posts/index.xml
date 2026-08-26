@@ -1,0 +1,150 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aaisha&#39;s Archive – Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Blog on Aaisha&#39;s Archive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Testing My Automated Digital Garden Cards 🧪✨</title>
+      <link>http://localhost:1313/posts/my-first-test-post/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-first-test-post/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Hey bestie, if you can read this inside the post, the link works perfectly! 💅&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Setting Up My Digital Garden: Why &amp; How I Built This Site 🌿</title>
+      <link>http://localhost:1313/posts/building_my_portfolio/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/building_my_portfolio/</guid>
+      <description>
+        
+        
+        &lt;h1 data-hextra-search-id=&#34;the-website-that-refused-to-build-itself&#34;&gt;The Website That Refused to Build Itself&lt;/h1&gt;&lt;h2 data-hextra-search-id=&#34;the-idea&#34;&gt;The Idea&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-idea&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-idea&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Somewhere between finishing my first year of Biotechnology and waiting for second year to begin, I decided I wanted a website.&lt;/p&gt;
+&lt;p&gt;Not just a website that existed for the sake of existing, but a place where every project, experiment, blog post, artwork, book review, competition, certificate, success, failure, and random idea from my four years of B.Tech could live together. A digital archive of everything I would build, learn, and inevitably struggle through during college.&lt;/p&gt;
+&lt;p&gt;The summer vacation between first and second year seemed like the perfect time to start.&lt;/p&gt;
+&lt;p&gt;Looking back, the idea itself was simple.&lt;/p&gt;
+&lt;p&gt;The execution was a completely different story.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 data-hextra-search-id=&#34;the-blank-google-screen&#34;&gt;The Blank Google Screen&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-blank-google-screen&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-blank-google-screen&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The way I&amp;rsquo;ve described this so far makes it sound like I opened my laptop with a detailed roadmap and a clear understanding of what needed to be done.&lt;/p&gt;
+&lt;p&gt;I did not.&lt;/p&gt;
+&lt;p&gt;I opened my laptop one afternoon and was greeted by an empty Google page. The cursor blinked patiently while I sat there realizing I had absolutely no idea where websites came from, let alone how to build one.&lt;/p&gt;
+&lt;p&gt;As a Biotechnology student, my world was usually filled with microscopes, lab records, acetocarmine-stained onion peels, and biological diagrams that somehow never looked as neat as the textbook versions. One day I was memorizing cell organelles, and the next I was trying to understand how people put entire websites onto the internet.&lt;/p&gt;
+&lt;p&gt;Those felt like two completely different universes.&lt;/p&gt;
+&lt;p&gt;So, like practically everyone else in 2026, I typed one word into Google:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ChatGPT.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;And that was where the journey actually began.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 data-hextra-search-id=&#34;three-words-i-didnt-understand&#34;&gt;Three Words I Didn&amp;rsquo;t Understand&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;three-words-i-didnt-understand&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#three-words-i-didnt-understand&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The first few hours of research introduced me to three words that seemed to appear absolutely everywhere: HTML, CSS, and JavaScript.&lt;/p&gt;
+&lt;p&gt;Apparently every website on the internet depended on them.&lt;/p&gt;
+&lt;p&gt;And what did I know about them?&lt;/p&gt;
+&lt;p&gt;Well, HTML stood for &lt;em&gt;HyperText Markup Language.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I knew that because somewhere in fifth grade a computer teacher had forced us to memorize the full form for an exam.&lt;/p&gt;
+&lt;p&gt;Unfortunately, knowing the full form of HTML while trying to build a website was like knowing the full form of GPay without knowing how to scan a QR code.&lt;/p&gt;
+&lt;p&gt;Technically correct.&lt;/p&gt;
+&lt;p&gt;Practically useless.&lt;/p&gt;
+&lt;p&gt;The more I searched, the more confused I became. Every answer seemed to introduce three new concepts, and every concept came attached with its own set of unfamiliar terms. It felt like finally reaching the SBI counter after standing in line for twenty minutes, only to be told that I first needed a signature from another counter on the other side of the building.&lt;/p&gt;
+&lt;p&gt;I wasn&amp;rsquo;t making much progress.&lt;/p&gt;
+&lt;p&gt;But I wasn&amp;rsquo;t giving up either.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 data-hextra-search-id=&#34;the-claude-era&#34;&gt;The Claude Era&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-claude-era&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-claude-era&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Around this time, Claude entered the picture.&lt;/p&gt;
+&lt;p&gt;Tutor. Mentor. Occasional motivtional speaker. Full-time supplier of forced out positive feedback.&lt;/p&gt;
+&lt;p&gt;It was like an Indian mom standing over your head asking, &amp;ldquo;Khana kaisa bana hai?&amp;rdquo; while you&amp;rsquo;re still chewing a burnt roti&lt;/p&gt;
+&lt;p&gt;I asked Claude to create a complete month-long roadmap for learning HTML, CSS, and JavaScript. There were obviously thousands of YouTube tutorials available, but those required patience. I, on the other hand, wanted results with the urgency of someone running towards an RTC bus after hearing the conductor&amp;rsquo;s whistle.&lt;/p&gt;
+&lt;p&gt;So I started learning.&lt;/p&gt;
+&lt;p&gt;Or at least my version of learning.&lt;/p&gt;
+&lt;p&gt;There was one small complication: I was operating entirely on free plans. Claude Premium was nowhere near my budget, which meant my workflow quickly turned into a masterclass in AI jugaad. Claude would generate lessons, notes, coding exercises, and mini-projects. I would then copy everything into ChatGPT, type &amp;ldquo;Explain,&amp;rdquo; and proceed to ask an unreasonable number of follow-up questions.&lt;/p&gt;
+&lt;p&gt;Every answer produced another question. Every explanation produced three more.&lt;/p&gt;
+&lt;p&gt;At one point, ChatGPT told me:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;You&amp;rsquo;re giving future coder who annoyingly asks 37 questions about one tag and then ends up understanding it better than everyone else vibes.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I still remember that sentence because it felt oddly specific.&lt;/p&gt;
+&lt;p&gt;And surprisingly motivating.&lt;/p&gt;
+&lt;p&gt;For a while, things were actually going well. I was beginning to understand how webpages were structured. Concepts that had looked completely alien a few weeks earlier were finally starting to make sense. For the first time, I could open a blank file and know roughly what needed to go where.&lt;/p&gt;
+&lt;p&gt;Then I reached Forms.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 data-hextra-search-id=&#34;the-great-forms-disaster&#34;&gt;The Great Forms Disaster&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-great-forms-disaster&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-great-forms-disaster&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Up until that point, HTML had felt manageable.&lt;/p&gt;
+&lt;p&gt;Forms changed that.&lt;/p&gt;
+&lt;p&gt;Suddenly there were inputs, labels, methods, actions, attributes, required fields, and enough unfamiliar terminology to make me question whether I was still learning the same subject.&lt;/p&gt;
+&lt;p&gt;Every tutorial seemed to assume I already understood several concepts that I definitely did not understand.&lt;/p&gt;
+&lt;p&gt;I would read an explanation, get confused, search for another explanation, become even more confused, and somehow end up with six additional browser tabs open. The entire experience felt like asking a relative for directions and receiving instructions that included three landmarks, two shortcuts, and a temple you&amp;rsquo;ve never heard of.&lt;/p&gt;
+&lt;p&gt;The most frustrating part was that HTML behaved nothing like biology.&lt;/p&gt;
+&lt;p&gt;In biology, if something goes wrong, there&amp;rsquo;s usually something to observe. Maybe the stain didn&amp;rsquo;t work. Maybe the slide wasn&amp;rsquo;t prepared properly. Maybe the observation was incorrect.&lt;/p&gt;
+&lt;p&gt;HTML had a different personality altogether.&lt;/p&gt;
+&lt;p&gt;One missing character somewhere and the page would quietly stop cooperating while offering absolutely no explanation.&lt;/p&gt;
+&lt;p&gt;Forms became my breaking point.&lt;/p&gt;
+&lt;p&gt;What followed was a complete HTML crash-out. Not a strategic break or a carefully planned pause. A full shutdown.&lt;/p&gt;
+&lt;p&gt;And just like that, the website project was abandoned.&lt;/p&gt;
+&lt;p&gt;At least temporarily.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 data-hextra-search-id=&#34;the-hiatus&#34;&gt;The Hiatus&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-hiatus&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-hiatus&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;For the next few weeks, the project sat untouched.&lt;/p&gt;
+&lt;p&gt;Every now and then I would remember the website and think, &lt;em&gt;&amp;ldquo;I should really continue that.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Then I would remember Forms.&lt;/p&gt;
+&lt;p&gt;And suddenly everything else on my to-do list seemed significantly more attractive.&lt;/p&gt;
+&lt;p&gt;The project remained stranded for most of July while I conveniently pretended it wasn&amp;rsquo;t waiting for me.&lt;/p&gt;
+&lt;p&gt;Eventually, sometime during the second week of August, I returned. Technically, I had managed to finish HTML. CSS and JavaScript, however, were still standing in the distance looking far more intimidating.&lt;/p&gt;
+&lt;p&gt;That was when a new idea appeared.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 data-hextra-search-id=&#34;my-let-ai-do-everything-phase&#34;&gt;My &amp;ldquo;Let AI Do Everything&amp;rdquo; Phase&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;my-let-ai-do-everything-phase&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#my-let-ai-do-everything-phase&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;What if I stopped trying to learn everything myself?&lt;/p&gt;
+&lt;p&gt;What if the AI simply built the website for me?&lt;/p&gt;
+&lt;p&gt;It sounded brilliant.&lt;/p&gt;
+&lt;p&gt;I would become the manager. The visionary. The person assigning tasks while the AI handled all the difficult work. Meanwhile, I could sit with a cup of coffee, read a book, listen to music, and occasionally approve progress like the CEO of a company that consisted entirely of chatbots.&lt;/p&gt;
+&lt;p&gt;For a brief moment, this seemed like the perfect solution.&lt;/p&gt;
+&lt;p&gt;Then reality arrived.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 data-hextra-search-id=&#34;the-paywall-wall&#34;&gt;The Paywall Wall&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-paywall-wall&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-paywall-wall&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The problem was simple.&lt;/p&gt;
+&lt;p&gt;Every impressive AI website-building workflow I found seemed to require some version of a paid subscription.&lt;/p&gt;
+&lt;p&gt;Pro.&lt;/p&gt;
+&lt;p&gt;Plus.&lt;/p&gt;
+&lt;p&gt;Premium.&lt;/p&gt;
+&lt;p&gt;Elite.&lt;/p&gt;
+&lt;p&gt;Ultra.&lt;/p&gt;
+&lt;p&gt;Whatever the name was, the message was always the same:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Please enter your card details.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;And I had none of them.&lt;/p&gt;
+&lt;p&gt;My grand plan of sitting back while AI magically built my website collapsed faster than a Parle-G biscuit left in chai for a few seconds too long.&lt;/p&gt;
+&lt;p&gt;So there I was.&lt;/p&gt;
+&lt;p&gt;A Biotechnology student.&lt;/p&gt;
+&lt;p&gt;A partially completed understanding of HTML.&lt;/p&gt;
+&lt;p&gt;Zero subscriptions.&lt;/p&gt;
+&lt;p&gt;No website.&lt;/p&gt;
+&lt;p&gt;And absolutely no clue what came next.&lt;/p&gt;
+&lt;p&gt;Then, completely by accident, I stumbled across four names that would end up changing everything:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hugo.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Obsidian.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;GitHub.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cloudflare.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;At the time, they sounded less like website tools and more like the lineup of a very confusing superhero movie.&lt;/p&gt;
+&lt;p&gt;I had no idea that discovering them would completely change the direction of this project.&lt;/p&gt;
+&lt;p&gt;But that&amp;rsquo;s a story for Part 2.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

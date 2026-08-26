@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "762c6231c8a67f46",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1357594700655d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a391cfb4400ac6d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/building_my_portfolio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "building_my_portfolio"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7e750e320f7f7ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0bf8ffe2ae8c3b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2a0047e76a07942",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "58ae78d52be4519f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "92cb564a16b8a775",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 206.5
+  },
+  "right": {
+    "id": "29f3c4d190dc2dd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "81bf9b87638ea5a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efc10ab76169a595",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/posts/building_my_portfolio.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ab11d99deae984fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/bookshelf/_index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ed474e91847ef13a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2bcb6648e333b26a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "31a7f9c989736274",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/bookshelf/_index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a391cfb4400ac6d7",
+  "lastOpenFiles": [
+    "content/_index.md",
+    "layouts/shortcodes/recent-updates.html",
+    "layouts/shortcodes/recent-updates.html.txt",
+    "layouts/shortcodes/New Text Document.txt",
+    "layouts/shortcodes",
+    "layouts/New folder",
+    "content/posts/my-first-test-post.md",
+    "layouts/index.html.txt",
+    "public/posts/my-first-test-post/index.html",
+    "public/posts/my-first-test-post",
+    "public/posts/my-first-test-post.md/index.html",
+    "public/posts/my-first-test-post.md",
+    "content/projects/water-purification-monitoring.md",
+    "layouts/New Text Document.txt",
+    "static/Images/WRONG.jpeg",
+    "static/Images/WRONG 2.jpeg",
+    "static/Images/WhatsApp Image 2026-07-20 at 10.21.54 PM (1).jpeg",
+    "static/Images/drying_beads.jpeg",
+    "static/Images/orange_peel_powder.jpeg",
+    "static/Images/treated_water.jpeg",
+    "static/Images/moringa_powder.jpeg",
+    "static/Images/dripping_slurry.jpeg",
+    "static/Images/double_boiler.jpeg",
+    "static/Images/contaminated_water.png",
+    "content/posts/building_my_portfolio.md",
+    "content/bookshelf/_index.md",
+    "content/posts/_index.md"
+  ]
+}
