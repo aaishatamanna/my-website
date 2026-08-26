@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/building_my_portfolio.md",
+                "file": "content/posts/my-first-test-post.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "building_my_portfolio"
+              "title": "my-first-test-post"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/building_my_portfolio.md",
+                "file": "content/posts/my-first-test-post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,8 +188,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "a391cfb4400ac6d7",
+  "active": "b2a0047e76a07942",
   "lastOpenFiles": [
+    "content/posts/building_my_portfolio.md",
     "content/_index.md",
     "layouts/shortcodes/recent-updates.html",
     "layouts/shortcodes/recent-updates.html.txt",
@@ -214,7 +215,6 @@
     "static/Images/dripping_slurry.jpeg",
     "static/Images/double_boiler.jpeg",
     "static/Images/contaminated_water.png",
-    "content/posts/building_my_portfolio.md",
     "content/bookshelf/_index.md",
     "content/posts/_index.md"
   ]
