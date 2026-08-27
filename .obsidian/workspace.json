@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/projects/_index.md",
+                "file": "content/projects/_index.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "_index.md"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292
+    "width": 278
   },
   "right": {
     "id": "29f3c4d190dc2dd4",
@@ -190,7 +190,12 @@
   },
   "active": "a391cfb4400ac6d7",
   "lastOpenFiles": [
-    "content/projects/water-purification-monitoring.md",
+    "content/projects/water-purification.md",
+    "content/projects/_index.md.md",
+    "content/projects/_index.md",
+    "content/projects/water-purification/index.md",
+    "content/projects/water-purification",
+    "content/projects/_index.md",
     "static/Images/biobead_kit.jpeg",
     "static/Images/WhatsApp Image 2026-08-27 at 11.19.43 PM.jpeg",
     "static/Images/sdg_collage.png",
@@ -209,7 +214,6 @@
     "layouts/New folder",
     "layouts/index.html.txt",
     "public/posts/my-first-test-post/index.html",
-    "public/posts/my-first-test-post",
     "public/posts/my-first-test-post.md",
     "static/Images/WRONG.jpeg",
     "static/Images/WRONG 2.jpeg",
