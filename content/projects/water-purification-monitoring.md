@@ -19,17 +19,17 @@ Conventional water treatment relies heavily on chemical coagulants such as alum 
 
 ## Objectives
 
-* Develop biodegradable hydrogel bio-beads using natural coagulant and adsorbent materials
-* Encapsulate these materials within a sodium alginate matrix for stability and controlled interaction with water
-* Integrate an ESP32-based turbidity monitoring system to quantify purification performance in NTU (Nephelometric Turbidity Units)
-* Comparatively evaluate different bead formulations for turbidity reduction efficiency
+* Develop biodegradable hydrogel bio-beads using natural coagulant and adsorbent materials.
+* Encapsulate these materials within a sodium alginate matrix for stability and controlled interaction with water.
+* Integrate an ESP32-based turbidity monitoring system to quantify purification performance in NTU (Nephelometric Turbidity Unit).
+* Comparatively evaluate different bead formulations for turbidity reduction efficiency.
 
 ## Working Principle
 
 The system combines two purification mechanisms within a single bead:
 
-* **Coagulation:** Moringa seed proteins carry a positive charge and neutralize negatively charged suspended particles, causing them to clump together and settle (floc formation)
-* **Adsorption / Biosorption:** Banana peel powder, orange peel powder, and activated charcoal contain cellulose, lignin, pectin, and porous carbon structures that trap and bind contaminants
+* **Coagulation:** Moringa seed proteins carry a positive charge and neutralize negatively charged suspended particles, causing them to clump together and settle (floc formation).
+* **Adsorption / Biosorption:** Banana peel powder, orange peel powder, and activated charcoal contain cellulose, lignin, pectin, and porous carbon structures that trap and bind contaminants.
 
 These materials are held within a sodium alginate hydrogel, formed through ionic cross-linking with calcium chloride — a structure known as the **"egg-box model."** This matrix keeps the active materials stable and allowed controlled contact with the water being treated.
 
@@ -43,9 +43,9 @@ A turbidity sensor connected to an ESP32 microcontroller continuously measures w
 
 ## Bead Preparation Process
 
-1. **Raw material collection** — Moringa seeds, banana peels, orange peels, and charcoal
-2. **De-moisting** — Materials washed and naturally dried
-3. **Grinding** — Dried materials ground into fine powders
+1. **Raw material collection** — Moringa seeds, banana peels, orange peels, and charcoal.
+2. **De-moisting** — Materials washed and naturally dried.
+3. **Grinding** — Dried materials ground into fine powders.
 
 | Moringa Powder | Banana Peel Powder |
 | :---: | :---: |
@@ -53,23 +53,23 @@ A turbidity sensor connected to an ESP32 microcontroller continuously measures w
 | **Orange Peel Powder** | **Activated Charcoal** |
 | <img src="../../../Images/orange_peel_powder.jpeg" width="300"> | <img src="../../../Images/charcoal_powder.png" width="300"> |
 
-4. **Alginate solution preparation** — Sodium alginate dissolved in distilled water (using a double-boiler setup)
+4. **Alginate solution preparation** — Sodium alginate dissolved in distilled water (using a double-boiler setup).
 
 <p align="center">
   <img src="../../../Images/double_boiler.png" width="300">
 </p>
 <p align="center"><em>Figure 1: Double-boiler setup for dissolving sodium alginate.</em></p>
 
-5. **Mixing** — Powders combined into the alginate solution to form a homogeneous suspension
-6. **Bead formation** — Mixture dropped into calcium chloride solution, triggering ionic cross-linking via a syringe
+5. **Mixing** — Powders combined into the alginate solution to form a homogeneous suspension.
+6. **Bead formation** — Mixture dropped into calcium chloride solution, triggering ionic cross-linking via a syringe.
 
 <p align="center">
   <img src="../../../Images/dripping_slurry.jpeg" width="300">
 </p>
 <p align="center"><em>Figure 2: Dripping biomaterial slurry into Calcium Chloride solution using a syringe.</em></p>
 
-7. **Washing** — Beads rinsed with distilled water to remove impurities
-8. **Drying** — Beads dried until stable and ready for use
+7. **Washing** — Beads rinsed with distilled water to remove impurities.
+8. **Drying** — Beads dried until stable and ready for use.
 
 <p align="center">
   <img src="../../../Images/drying_beads.jpeg" width="300">
@@ -97,12 +97,12 @@ A turbidity sensor connected to an ESP32 microcontroller continuously measures w
 
 The system was evaluated across six test cases covering bead formation, treatment efficiency, sensor accuracy, and overall system integration:
 
-* **Bead formation:** Beads formed as stable, spherical structures that maintained integrity without disintegration
-* **Treatment efficiency:** Contaminated water showed a clear, visible improvement in clarity after treatment
-* **Turbidity sensor:** Accurately detected and reported varying turbidity levels across different samples
-* **ESP32 monitoring:** Continuously processed and displayed sensor readings without interruption
-* **LED indication:** Correctly switched between green (safe turbidity) and red (high turbidity) based on threshold values
-* **Overall system:** All components operated together successfully, meeting the project's intended objectives
+* **Bead formation:** Beads formed as stable, spherical structures that maintained integrity without disintegration.
+* **Treatment efficiency:** Contaminated water showed a clear, visible improvement in clarity after treatment.
+* **Turbidity sensor:** Accurately detected and reported varying turbidity levels across different samples.
+* **ESP32 monitoring:** Continuously processed and displayed sensor readings without interruption.
+* **LED indication:** Correctly switched between green (safe turbidity) and red (high turbidity) based on threshold values.
+* **Overall system:** All components operated together successfully, meeting the project's intended objectives.
 
 |                   Initial Contaminated Water                   |                 Treated & Clarified Water                 |
 | :------------------------------------------------------------: | :-------------------------------------------------------: |
@@ -116,31 +116,37 @@ The system was evaluated across six test cases covering bead formation, treatmen
 
 ## Applications
 
-* **Household water pre-treatment** — a simple first step to reduce turbidity before further purification
-* **Rural and remote water treatment** — low-cost, community-level purification without dependence on infrastructure
-* **Agricultural and irrigation use** — reduces suspended solids in water used for irrigation
-* **Educational and research use** — a hands-on tool for studying coagulation, adsorption, and biosorption
-* **Environmental monitoring** — real-time turbidity tracking for water bodies
-* **Emergency and disaster relief** — a lightweight, portable option for treating water during shortages
-* **Smart water quality systems** — combines sustainable purification with IoT-based monitoring
+* **Household water pre-treatment** — a simple first step to reduce turbidity before further purification.
+* **Rural and remote water treatment** — low-cost, community-level purification without dependence on infrastructure.
+* **Agricultural and irrigation use** — reduces suspended solids in water used for irrigation.
+* **Educational and research use** — a hands-on tool for studying coagulation, adsorption, and biosorption.
+* **Environmental monitoring** — real-time turbidity tracking for water bodies.
+* **Emergency and disaster relief** — a lightweight, portable option for treating water during shortages.
+* **Smart water quality systems** — combines sustainable purification with IoT-based monitoring.
 
 ### Portable Bio-Bead Kit Concept
 The beads were also designed as a compact, ready-to-use kit — pre-packaged in zip-lock pouches for easy transport and distribution. Requiring no electricity or specialized equipment, the kit is suited for schools, NGOs, and community programs operating in areas with limited infrastructure, offering a low-cost pre-treatment option for water used in irrigation or non-potable applications.
+<p align="center">
+  <img src="../../../Images/biobead_kit.jpeg" width="300">
+</p>
+<p align="center"><em>Figure: Pre-packaged portable bio-bead kit (concept visualization, AI-generated).</em></p>
 
 ## Limitations and Future Scope
 
-* Bead composition, porosity, and controlled-release characteristics can be further optimized for improved treatment performance
-* Additional sensors — pH, Total Dissolved Solids (TDS), dissolved oxygen, temperature, and conductivity — could be integrated for more comprehensive water quality analysis
-* IoT connectivity could enable remote monitoring and cloud-based data storage
-* Future work could extend the system to heavy metal removal, wastewater treatment, and community-scale purification
+* Bead composition, porosity, and controlled-release characteristics can be further optimized for improved treatment performance.
+* Additional sensors — pH, Total Dissolved Solids (TDS), dissolved oxygen, temperature, and conductivity — could be integrated for more comprehensive water quality analysis.
+* IoT connectivity could enable remote monitoring and cloud-based data storage.
+* Future work could extend the system to heavy metal removal, wastewater treatment, and community-scale purification.
 
 ## Relevance to Sustainable Development Goals
 
-* **SDG 3 — Good Health and Well-Being:** Reduces exposure to contaminated water and supports healthier living conditions
-* **SDG 6 — Clean Water and Sanitation:** Provides an affordable, eco-friendly approach to improving water clarity
-* **SDG 9 — Industry, Innovation and Infrastructure:** Combines biotechnology with smart sensing for an innovative treatment approach
-* **SDG 12 — Responsible Consumption and Production:** Converts agricultural waste (banana and orange peels) into a value-added product
-* **SDG 13 — Climate Action:** Reduces dependence on synthetic chemicals in favor of biodegradable alternatives
+* **SDG 3 — Good Health and Well-Being:** Reduces exposure to contaminated water and supports healthier living conditions.
+* **SDG 6 — Clean Water and Sanitation:** Provides an affordable, eco-friendly approach to improving water clarity.
+* **SDG 9 — Industry, Innovation and Infrastructure:** Combines biotechnology with smart sensing for an innovative treatment approach.
+* **SDG 12 — Responsible Consumption and Production:** Converts agricultural waste (banana and orange peels) into a value-added product.
+* **SDG 13 — Climate Action:** Reduces dependence on synthetic chemicals in favor of biodegradable alternatives.
+
+<p align="center"> <img src="../../../Images/sdg_collage.png" width="300"> </p> <p align="center"><em>Figure: Sustainable Development Goals alignment collage.</em></p>
 
 ## Conclusion
 
