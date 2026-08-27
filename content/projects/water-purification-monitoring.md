@@ -71,10 +71,10 @@ Testing & Visual Outcome
 * **Procedure:** 250 mL soil-water samples were treated with equal bead doses, stirred gently for 1 minute, and left to settle for 10–15 minutes.
 * **Observations:** Rapid floc formation, visible particle settling, and significant recovery of water clarity.
 
-|                      Initial Contaminated Water                       |             Treated & Clarified Water              |
-| :-------------------------------------------------------------------: | :------------------------------------------------: |
-| <img src="../../../static/Images/contaminated_water.png" width="300"> | <img src="/Images/treated_water.jpeg" width="300"> |
-|                 *Raw turbid sample before treatment*                  |       *Clear sample after 30 mins treatment*       |
+|                   Initial Contaminated Water                   |             Treated & Clarified Water              |
+| :------------------------------------------------------------: | :------------------------------------------------: |
+| <img src="../../../Images/contaminated_water.png" width="300"> | <img src="/Images/treated_water.jpeg" width="300"> |
+|              *Raw turbid sample before treatment*              |       *Clear sample after 30 mins treatment*       |
 
 * **Qualitative Indicator:** Once suspended particles settled and water clarity was restored, the ESP32 triggered the status LED to switch from red to green, signaling successful purification.
 
