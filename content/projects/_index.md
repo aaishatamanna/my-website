@@ -6,4 +6,9 @@ Welcome to my project repository! Here you'll find engineering prototypes, hardw
 
 <br><br><br>
 
-{{< card link="water-purification-monitoring" title="Water Purification & Turbidity Monitoring System 🛠️" subtitle="Microcontroller-based smart water quality analysis prototype using ESP32, Moringa oleifera hydrogel beads, and turbidity sensors." >}}
+---
+title: "Comparative Study of Multifunctional Biodegradable Bio-Coagulant Beads for Smart Water Treatment Applications"
+description: "A biodegradable, IoT-integrated system for purifying water using natural materials and real-time turbidity monitoring."
+date: 2026-06-15
+tags: ["Biotech", "Sustainable Materials", "IoT", "Embedded Systems"]
+---
