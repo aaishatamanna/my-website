@@ -32,11 +32,11 @@ description: Combining Moringa oleifera seed hydrogel beads with an ESP32 microc
 * **Step 2: Slight De-Moisting** – Wash all materials and naturally de-moisten them to remove excess moisture.
 * **Step 3: Grinding into Fine Powders** – Grind the dried materials separately into fine powders using a grinder.
 
-| Moringa Powder | Banana Peel Powder |
-| :---: | :---: |
-| <img src="/Images/moringa_powder.jpeg" width="300"> | <img src="/Images/banana_peel_powder.jpeg" width="300"> |
-| **Orange Peel Powder** | **Activated Charcoal** |
-| <img src="/Images/orange_peel_powder.jpeg" width="300"> | <img src="/Images/charcoal_powder.png" width="300"> |
+|                     Moringa Powder                      |                   Banana Peel Powder                    |
+| :-----------------------------------------------------: | :-----------------------------------------------------: |
+|   <img src="/Images/moringa_powder.jpeg" width="300">   | <img src="/Images/banana_peel_powder.jpeg" width="300"> |
+|                 **Orange Peel Powder**                  |                 **Activated Charcoal**                  |
+| <img src="/Images/orange_peel_powder.jpeg" width="300"> |   <img src="/Images/charcoal_powder.png" width="300">   |
 
 * **Step 4: Preparing Sodium Alginate Solution** – Dissolve sodium alginate in distilled water using a double-boiler setup to facilitate smooth dissolution without degrading the polymer.
 
@@ -71,10 +71,10 @@ Testing & Visual Outcome
 * **Procedure:** 250 mL soil-water samples were treated with equal bead doses, stirred gently for 1 minute, and left to settle for 10–15 minutes.
 * **Observations:** Rapid floc formation, visible particle settling, and significant recovery of water clarity.
 
-|               Initial Contaminated Water                |             Treated & Clarified Water              |
-| :-----------------------------------------------------: | :------------------------------------------------: |
-| <img src="/Images/contaminated_water.jpeg" width="300"> | <img src="/Images/treated_water.jpeg" width="300"> |
-|          *Raw turbid sample before treatment*           |       *Clear sample after 30 mins treatment*       |
+|                      Initial Contaminated Water                       |             Treated & Clarified Water              |
+| :-------------------------------------------------------------------: | :------------------------------------------------: |
+| <img src="../../../static/Images/contaminated_water.png" width="300"> | <img src="/Images/treated_water.jpeg" width="300"> |
+|                 *Raw turbid sample before treatment*                  |       *Clear sample after 30 mins treatment*       |
 
 * **Qualitative Indicator:** Once suspended particles settled and water clarity was restored, the ESP32 triggered the status LED to switch from red to green, signaling successful purification.
 
