@@ -1,84 +1,147 @@
 ---
-title: "Smart Water Treatment: Biodegradable Bio-Coagulant Hydrogel Beads"
-date: 2026-05-15
-status: Completed
+title: Comparative Study of Multifunctional Biodegradable Bio-Coagulant Beads for Smart Water Treatment Applications
+description: A biodegradable, IoT-integrated system for purifying water using natural materials and real-time turbidity monitoring.
+date: 2026-06-15
 tags:
-  - Biotechnology
-  - ESP32
-  - Hardware
-categories:
-  - Projects
-description: Combining Moringa oleifera seed hydrogel beads with an ESP32 microcontroller and turbidity sensor for real-time clarity monitoring.
+  - Biotech
+  - Sustainable Materials
+  - IoT
+  - Embedded Systems
 ---
 
-     DATE OF COMPLETION: 20/05/2026
+## Overview
 
-📌 Project Overview 
-* **Goal:** Replacing synthetic, expensive chemical water treatments with eco-friendly hydrogel beads made from natural biomaterials and agricultural waste.
-* **Smart Tech:** Integrated with an ESP32 microcontroller and turbidity sensor for automated visual feedback via LED indicators.
-* **SDGs Targeted:** SDG 6 (Clean Water and Sanitation), SDG 12 (Responsible Consumption & Production), SDG 13 (Climate Action).
+This project presents biodegradable hydrogel bio-beads formulated from natural materials — Moringa seed powder, banana peel powder, orange peel powder, and activated charcoal — encapsulated within a sodium alginate matrix. These beads purify contaminated water through combined coagulation, adsorption, and biosorption mechanisms. A smart monitoring system, built using an ESP32 microcontroller and turbidity sensor, was integrated to evaluate purification performance through real-time turbidity tracking.
 
-🧪 Science & Materials Behind the Beads 
-1. Natural Biomaterials 
-* **Moringa Seed Powder (*Moringa oleifera*):** Contains positively charged cationic proteins that neutralize negatively charged soil particles, causing them to form heavy flocs and drop to the bottom.
-* **Banana & Orange Peel Powders:** Natural pectin, cellulose, and carboxyl functional groups actively bind contaminants via biosorption and surface ion interactions.
-* **Activated Charcoal:** High-porosity carbon matrix designed for physical adsorption of suspended impurities.
+## The Problem
 
-2. Hydrogel Matrix Synthesis 
-* **Sodium Alginate + Calcium Chloride ($\text{CaCl}_2$):** Sodium alginate acts as the encapsulating polymer matrix. Dropping the biomaterial-alginate mixture into a $\text{CaCl}_2$ solution triggers instant ionic crosslinking to form firm, biodegradable hydrogel beads.
+Conventional water treatment relies heavily on chemical coagulants such as alum and ferric salts. While effective, these chemicals generate harmful sludge, raise treatment costs, and introduce secondary environmental pollution. Natural coagulants like *Moringa oleifera* offer a sustainable alternative, but their effectiveness is typically assessed through inconsistent manual observation. There is a need for a standardized, biodegradable treatment method paired with objective, real-time performance measurement.
 
-🔬 Bead Formulation 
-* **Step 1: Raw Materials Collection** – Collect moringa seeds, banana peels, orange peels, and charcoal.
-* **Step 2: Slight De-Moisting** – Wash all materials and naturally de-moisten them to remove excess moisture.
-* **Step 3: Grinding into Fine Powders** – Grind the dried materials separately into fine powders using a grinder.
+## Objectives
 
-|                     Moringa Powder                      |                   Banana Peel Powder                    |
-| :-----------------------------------------------------: | :-----------------------------------------------------: |
-|   <img src="/Images/moringa_powder.jpeg" width="300">   | <img src="/Images/banana_peel_powder.jpeg" width="300"> |
-|                 **Orange Peel Powder**                  |                 **Activated Charcoal**                  |
-| <img src="/Images/orange_peel_powder.jpeg" width="300"> |   <img src="/Images/charcoal_powder.png" width="300">   |
+* Develop biodegradable hydrogel bio-beads using natural coagulant and adsorbent materials
+* Encapsulate these materials within a sodium alginate matrix for stability and controlled interaction with water
+* Integrate an ESP32-based turbidity monitoring system to quantify purification performance in NTU (Nephelometric Turbidity Units)
+* Comparatively evaluate different bead formulations for turbidity reduction efficiency
 
-* **Step 4: Preparing Sodium Alginate Solution** – Dissolve sodium alginate in distilled water using a double-boiler setup to facilitate smooth dissolution without degrading the polymer.
+## Working Principle
 
-<img src="/Images/double_boiler.jpeg" width="500">
-*Figure 1: Double-boiler setup for dissolving sodium alginate.*
+The system combines two purification mechanisms within a single bead:
 
-* **Step 5: Mixing All Powders into the Solution** – Add all prepared powders into the sodium alginate solution and mix thoroughly.
-* **Step 6: Homogeneous Mixture** – Continue mixing until a smooth, uniform black slurry is obtained.
-* **Step 7: Dripping into Calcium Chloride Solution** – Transfer the slurry into a syringe and drop it carefully into a $\text{CaCl}_2$ solution.
+* **Coagulation:** Moringa seed proteins carry a positive charge and neutralize negatively charged suspended particles, causing them to clump together and settle (floc formation)
+* **Adsorption / Biosorption:** Banana peel powder, orange peel powder, and activated charcoal contain cellulose, lignin, pectin, and porous carbon structures that trap and bind contaminants
 
-<img src="/Images/dripping_slurry.jpeg" width="500">
-*Figure 2: Dripping biomaterial slurry into Calcium Chloride solution using a syringe.*
+These materials are held within a sodium alginate hydrogel, formed through ionic cross-linking with calcium chloride — a structure known as the **"egg-box model."** This matrix keeps the active materials stable and allowed controlled contact with the water being treated.
 
-* **Step 8: Bead Formation (Cross-Linking)** – Allow calcium ions to cross-link with sodium alginate to form stable, spherical hydrogel beads. Leave them in the bath to solidify.
+## System Design
 
-<img src="/Images/beads_in_solution.jpeg" width="500">
-*Figure 3: Hydrogel beads curing inside the Calcium Chloride bath.*
+### Treatment Module
+Bio-beads are introduced into contaminated water, where their embedded materials interact with suspended particles through coagulation, adsorption, biosorption, and chelation — improving water clarity over time.
 
-* **Step 9: Washing** – Wash the formed beads multiple times with distilled water to remove remaining impurities.
-* **Step 10: Drying** – Place the beads in a plastic petri dish and dry them completely.
+### Monitoring Module
+A turbidity sensor connected to an ESP32 microcontroller continuously measures water clarity before and after treatment. Readings are processed and displayed via the serial monitor, with green and red LED indicators providing a simple visual signal of water quality.
 
-<img src="/Images/drying_beads.jpeg" width="500">
-*Figure 4: Synthesized hydrogel beads drying in a plastic petri dish.*
+## Bead Preparation Process
 
-⚡ IoT Smart Sensor Setup & Qualitative Results 
-Hardware Configuration 
-* **ESP32 Microcontroller:** Processes sensor input to track water clarity in real time.
-* **Analog Turbidity Sensor:** Works on a light-scattering mechanism to detect suspended particulate density.
-* **Status LED Output:** Visual indicators wired directly to the ESP32.
+1. **Raw material collection** — Moringa seeds, banana peels, orange peels, and charcoal
+2. **De-moisting** — Materials washed and naturally dried
+3. **Grinding** — Dried materials ground into fine powders
 
-Testing & Visual Outcome 
-* **Procedure:** 250 mL soil-water samples were treated with equal bead doses, stirred gently for 1 minute, and left to settle for 10–15 minutes.
-* **Observations:** Rapid floc formation, visible particle settling, and significant recovery of water clarity.
-
-|                   Initial Contaminated Water                   |             Treated & Clarified Water              |
-| :------------------------------------------------------------: | :------------------------------------------------: |
-| <img src="../../../Images/contaminated_water.png" width="300"> | <img src="/Images/treated_water.jpeg" width="300"> |
-|              *Raw turbid sample before treatment*              |       *Clear sample after 30 mins treatment*       |
-
-* **Qualitative Indicator:** Once suspended particles settled and water clarity was restored, the ESP32 triggered the status LED to switch from red to green, signaling successful purification.
-
-| Turbid Water (System Triggered) | Purified Water (Target Achieved) |
+| Moringa Powder | Banana Peel Powder |
 | :---: | :---: |
-| <img src="/Images/circuit_red_led.jpeg" width="300"> | <img src="/Images/circuit_green_led.jpeg" width="300"> |
-| *Red LED active during high turbidity* | *Green LED active post-purification* |
+| <img src="../../../Images/moringa_powder.jpeg" width="300"> | <img src="../../../Images/banana_peel_powder.jpeg" width="300"> |
+| **Orange Peel Powder** | **Activated Charcoal** |
+| <img src="../../../Images/orange_peel_powder.jpeg" width="300"> | <img src="../../../Images/charcoal_powder.png" width="300"> |
+
+4. **Alginate solution preparation** — Sodium alginate dissolved in distilled water (using a double-boiler setup)
+
+<p align="center">
+  <img src="../../../Images/double_boiler.png" width="300">
+</p>
+<p align="center"><em>Figure 1: Double-boiler setup for dissolving sodium alginate.</em></p>
+
+5. **Mixing** — Powders combined into the alginate solution to form a homogeneous suspension
+6. **Bead formation** — Mixture dropped into calcium chloride solution, triggering ionic cross-linking via a syringe
+
+<p align="center">
+  <img src="../../../Images/dripping_slurry.jpeg" width="300">
+</p>
+<p align="center"><em>Figure 2: Dripping biomaterial slurry into Calcium Chloride solution using a syringe.</em></p>
+
+7. **Washing** — Beads rinsed with distilled water to remove impurities
+8. **Drying** — Beads dried until stable and ready for use
+
+<p align="center">
+  <img src="../../../Images/drying_beads.jpeg" width="300">
+</p>
+<p align="center"><em>Figure 3: Final prepared hydrogel bio-beads.</em></p>
+
+## Materials and Equipment
+
+### Hardware
+* ESP32 Development Board
+* Optical Turbidity Sensor Module (Analog)
+* 5V DC Adapter / Power Bank
+* Solderless Breadboard and Jumper Wires
+* Two 10 kΩ Resistors (voltage divider, 5V to 3.3V conversion)
+* Red and Green LED Indicators with 220 Ω Resistors
+* Sodium Alginate-Based Bio-Coagulant Beads
+* Glass Beaker for Water Samples
+
+### Software
+* Arduino IDE with ESP32 Board Package
+* C/C++
+* Arduino IDE Serial Monitor
+
+## Testing and Results
+
+The system was evaluated across six test cases covering bead formation, treatment efficiency, sensor accuracy, and overall system integration:
+
+* **Bead formation:** Beads formed as stable, spherical structures that maintained integrity without disintegration
+* **Treatment efficiency:** Contaminated water showed a clear, visible improvement in clarity after treatment
+* **Turbidity sensor:** Accurately detected and reported varying turbidity levels across different samples
+* **ESP32 monitoring:** Continuously processed and displayed sensor readings without interruption
+* **LED indication:** Correctly switched between green (safe turbidity) and red (high turbidity) based on threshold values
+* **Overall system:** All components operated together successfully, meeting the project's intended objectives
+
+|                   Initial Contaminated Water                   |                 Treated & Clarified Water                 |
+| :------------------------------------------------------------: | :-------------------------------------------------------: |
+| <img src="../../../Images/contaminated_water.png" width="300"> | <img src="../../../Images/treated_water.png" width="300"> |
+|              *Raw turbid sample before treatment*              |          *Clear sample after 30 mins treatment*           |
+
+|               Turbid Water (System Triggered)               |                Purified Water (Target Achieved)                |
+| :---------------------------------------------------------: | :------------------------------------------------------------: |
+| <img src="../../../Images/circuit_red_led.png" width="300"> | <img src="../../../Images/circuit_green_led.jpeg" width="300"> |
+|           *Red LED active during high turbidity*            |              *Green LED active post-purification*              |
+
+## Applications
+
+* **Household water pre-treatment** — a simple first step to reduce turbidity before further purification
+* **Rural and remote water treatment** — low-cost, community-level purification without dependence on infrastructure
+* **Agricultural and irrigation use** — reduces suspended solids in water used for irrigation
+* **Educational and research use** — a hands-on tool for studying coagulation, adsorption, and biosorption
+* **Environmental monitoring** — real-time turbidity tracking for water bodies
+* **Emergency and disaster relief** — a lightweight, portable option for treating water during shortages
+* **Smart water quality systems** — combines sustainable purification with IoT-based monitoring
+
+### Portable Bio-Bead Kit Concept
+The beads were also designed as a compact, ready-to-use kit — pre-packaged in zip-lock pouches for easy transport and distribution. Requiring no electricity or specialized equipment, the kit is suited for schools, NGOs, and community programs operating in areas with limited infrastructure, offering a low-cost pre-treatment option for water used in irrigation or non-potable applications.
+
+## Limitations and Future Scope
+
+* Bead composition, porosity, and controlled-release characteristics can be further optimized for improved treatment performance
+* Additional sensors — pH, Total Dissolved Solids (TDS), dissolved oxygen, temperature, and conductivity — could be integrated for more comprehensive water quality analysis
+* IoT connectivity could enable remote monitoring and cloud-based data storage
+* Future work could extend the system to heavy metal removal, wastewater treatment, and community-scale purification
+
+## Relevance to Sustainable Development Goals
+
+* **SDG 3 — Good Health and Well-Being:** Reduces exposure to contaminated water and supports healthier living conditions
+* **SDG 6 — Clean Water and Sanitation:** Provides an affordable, eco-friendly approach to improving water clarity
+* **SDG 9 — Industry, Innovation and Infrastructure:** Combines biotechnology with smart sensing for an innovative treatment approach
+* **SDG 12 — Responsible Consumption and Production:** Converts agricultural waste (banana and orange peels) into a value-added product
+* **SDG 13 — Climate Action:** Reduces dependence on synthetic chemicals in favor of biodegradable alternatives
+
+## Conclusion
+
+Building this system bridged biotechnology with practical IoT execution, demonstrating that sustainable agricultural waste can directly solve real-world clean water challenges through smart, local engineering.
