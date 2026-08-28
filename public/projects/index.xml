@@ -16,43 +16,43 @@
     
     
     <item>
-      <title>Smart Water Treatment: Biodegradable Bio-Coagulant Hydrogel Beads</title>
-      <link>http://localhost:1313/projects/water-purification-monitoring/</link>
+      <title>Multifunctional Biodegradable Biobeads for Smart Water Purification Systems</title>
+      <link>http://localhost:1313/projects/water-purification/index.md/</link>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/water-purification-monitoring/</guid>
+      <guid>http://localhost:1313/projects/water-purification/index.md/</guid>
       <description>
         
         
-        &lt;pre&gt;&lt;code&gt; DATE OF COMPLETION: 20/05/2026
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;📌 Project Overview&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Goal:&lt;/strong&gt; Replacing synthetic, expensive chemical water treatments with eco-friendly hydrogel beads made from natural biomaterials and agricultural waste.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Smart Tech:&lt;/strong&gt; Integrated with an ESP32 microcontroller and turbidity sensor for automated visual feedback via LED indicators.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;SDGs Targeted:&lt;/strong&gt; SDG 6 (Clean Water and Sanitation), SDG 12 (Responsible Consumption &amp;amp; Production), SDG 13 (Climate Action).&lt;/li&gt;
+        &lt;h2 data-hextra-search-id=&#34;overview&#34;&gt;Overview&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;overview&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#overview&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;This project presents biodegradable hydrogel bio-beads formulated from natural materials — Moringa seed powder, banana peel powder, orange peel powder, and activated charcoal — encapsulated within a sodium alginate matrix. These beads purify contaminated water through combined coagulation, adsorption, and biosorption mechanisms. A smart monitoring system, built using an ESP32 microcontroller and turbidity sensor, was integrated to evaluate purification performance through real-time turbidity tracking.&lt;/p&gt;
+&lt;h2 data-hextra-search-id=&#34;the-problem&#34;&gt;The Problem&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-problem&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-problem&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Conventional water treatment relies heavily on chemical coagulants such as alum and ferric salts. While effective, these chemicals generate harmful sludge, raise treatment costs, and introduce secondary environmental pollution. Natural coagulants like &lt;em&gt;Moringa oleifera&lt;/em&gt; offer a sustainable alternative, but their effectiveness is typically assessed through inconsistent manual observation. There is a need for a standardized, biodegradable treatment method paired with objective, real-time performance measurement.&lt;/p&gt;
+&lt;h2 data-hextra-search-id=&#34;objectives&#34;&gt;Objectives&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;objectives&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#objectives&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Develop biodegradable hydrogel bio-beads using natural coagulant and adsorbent materials.&lt;/li&gt;
+&lt;li&gt;Encapsulate these materials within a sodium alginate matrix for stability and controlled interaction with water.&lt;/li&gt;
+&lt;li&gt;Integrate an ESP32-based turbidity monitoring system to quantify purification performance in NTU (Nephelometric Turbidity Unit).&lt;/li&gt;
+&lt;li&gt;Comparatively evaluate different bead formulations for turbidity reduction efficiency.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;🧪 Science &amp;amp; Materials Behind the Beads&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Natural Biomaterials&lt;/li&gt;
+&lt;h2 data-hextra-search-id=&#34;working-principle&#34;&gt;Working Principle&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;working-principle&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#working-principle&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The system combines two purification mechanisms within a single bead:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Coagulation:&lt;/strong&gt; Moringa seed proteins carry a positive charge and neutralize negatively charged suspended particles, causing them to clump together and settle (floc formation).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Adsorption / Biosorption:&lt;/strong&gt; Banana peel powder, orange peel powder, and activated charcoal contain cellulose, lignin, pectin, and porous carbon structures that trap and bind contaminants.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These materials are held within a sodium alginate hydrogel, formed through ionic cross-linking with calcium chloride — a structure known as the &lt;strong&gt;&amp;ldquo;egg-box model.&amp;rdquo;&lt;/strong&gt; This matrix keeps the active materials stable and allowed controlled contact with the water being treated.&lt;/p&gt;
+&lt;h2 data-hextra-search-id=&#34;system-design&#34;&gt;System Design&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;system-design&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#system-design&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;treatment-module&#34;&gt;Treatment Module&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;treatment-module&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#treatment-module&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Bio-beads are introduced into contaminated water, where their embedded materials interact with suspended particles through coagulation, adsorption, biosorption, and chelation — improving water clarity over time.&lt;/p&gt;
+&lt;h3 data-hextra-search-id=&#34;monitoring-module&#34;&gt;Monitoring Module&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;monitoring-module&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#monitoring-module&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;A turbidity sensor connected to an ESP32 microcontroller continuously measures water clarity before and after treatment. Readings are processed and displayed via the serial monitor, with green and red LED indicators providing a simple visual signal of water quality.&lt;/p&gt;
+&lt;h2 data-hextra-search-id=&#34;bead-preparation-process&#34;&gt;Bead Preparation Process&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;bead-preparation-process&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#bead-preparation-process&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Raw material collection&lt;/strong&gt; — Moringa seeds, banana peels, orange peels, and charcoal.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;De-moisting&lt;/strong&gt; — Materials washed and naturally dried.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Grinding&lt;/strong&gt; — Dried materials ground into fine powders.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Moringa Seed Powder (&lt;em&gt;Moringa oleifera&lt;/em&gt;):&lt;/strong&gt; Contains positively charged cationic proteins that neutralize negatively charged soil particles, causing them to form heavy flocs and drop to the bottom.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Banana &amp;amp; Orange Peel Powders:&lt;/strong&gt; Natural pectin, cellulose, and carboxyl functional groups actively bind contaminants via biosorption and surface ion interactions.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Activated Charcoal:&lt;/strong&gt; High-porosity carbon matrix designed for physical adsorption of suspended impurities.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;Hydrogel Matrix Synthesis&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Sodium Alginate + Calcium Chloride ($\text{CaCl}_2$):&lt;/strong&gt; Sodium alginate acts as the encapsulating polymer matrix. Dropping the biomaterial-alginate mixture into a $\text{CaCl}_2$ solution triggers instant ionic crosslinking to form firm, biodegradable hydrogel beads.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🔬 Bead Formulation&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Step 1: Raw Materials Collection&lt;/strong&gt; – Collect moringa seeds, banana peels, orange peels, and charcoal.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Step 2: Slight De-Moisting&lt;/strong&gt; – Wash all materials and naturally de-moisten them to remove excess moisture.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Step 3: Grinding into Fine Powders&lt;/strong&gt; – Grind the dried materials separately into fine powders using a grinder.&lt;/li&gt;
-&lt;/ul&gt;
 &lt;table&gt;
 	&lt;thead&gt;
 			&lt;tr&gt;
@@ -62,53 +62,69 @@
 	&lt;/thead&gt;
 	&lt;tbody&gt;
 			&lt;tr&gt;
-					&lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;http://localhost:1313/Images/moringa_powder.jpeg&#34; width=&#34;300&#34;&gt;&lt;/td&gt;
-					&lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;http://localhost:1313/Images/banana_peel_powder.jpeg&#34; width=&#34;300&#34;&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;../../../Images/moringa_powder.jpeg&#34; width=&#34;300&#34;&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;../../../Images/banana_peel_powder.jpeg&#34; width=&#34;300&#34;&gt;&lt;/td&gt;
 			&lt;/tr&gt;
 			&lt;tr&gt;
 					&lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;Orange Peel Powder&lt;/strong&gt;&lt;/td&gt;
 					&lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;Activated Charcoal&lt;/strong&gt;&lt;/td&gt;
 			&lt;/tr&gt;
 			&lt;tr&gt;
-					&lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;http://localhost:1313/Images/orange_peel_powder.jpeg&#34; width=&#34;300&#34;&gt;&lt;/td&gt;
-					&lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;http://localhost:1313/Images/charcoal_powder.png&#34; width=&#34;300&#34;&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;../../../Images/orange_peel_powder.jpeg&#34; width=&#34;300&#34;&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;../../../Images/charcoal_powder.png&#34; width=&#34;300&#34;&gt;&lt;/td&gt;
 			&lt;/tr&gt;
 	&lt;/tbody&gt;
 &lt;/table&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Step 4: Preparing Sodium Alginate Solution&lt;/strong&gt; – Dissolve sodium alginate in distilled water using a double-boiler setup to facilitate smooth dissolution without degrading the polymer.&lt;/li&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Alginate solution preparation&lt;/strong&gt; — Sodium alginate dissolved in distilled water (using a double-boiler setup).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../../../Images/double_boiler.png&#34; width=&#34;300&#34;&gt;
+&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;&lt;em&gt;Figure 1: Double-boiler setup for dissolving sodium alginate.&lt;/em&gt;&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Mixing&lt;/strong&gt; — Powders combined into the alginate solution to form a homogeneous suspension.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bead formation&lt;/strong&gt; — Mixture dropped into calcium chloride solution, triggering ionic cross-linking via a syringe.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../../../Images/dripping_slurry.jpeg&#34; width=&#34;300&#34;&gt;
+&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;&lt;em&gt;Figure 2: Dripping biomaterial slurry into Calcium Chloride solution using a syringe.&lt;/em&gt;&lt;/p&gt;
+&lt;ol start=&#34;7&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Washing&lt;/strong&gt; — Beads rinsed with distilled water to remove impurities.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Drying&lt;/strong&gt; — Beads dried until stable and ready for use.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../../../Images/drying_beads.jpeg&#34; width=&#34;300&#34;&gt;
+&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;&lt;em&gt;Figure 3: Final prepared hydrogel bio-beads.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 data-hextra-search-id=&#34;materials-and-equipment&#34;&gt;Materials and Equipment&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;materials-and-equipment&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#materials-and-equipment&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;hardware&#34;&gt;Hardware&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;hardware&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#hardware&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;ESP32 Development Board&lt;/li&gt;
+&lt;li&gt;Optical Turbidity Sensor Module (Analog)&lt;/li&gt;
+&lt;li&gt;5V DC Adapter / Power Bank&lt;/li&gt;
+&lt;li&gt;Solderless Breadboard and Jumper Wires&lt;/li&gt;
+&lt;li&gt;Two 10 kΩ Resistors (voltage divider, 5V to 3.3V conversion)&lt;/li&gt;
+&lt;li&gt;Red and Green LED Indicators with 220 Ω Resistors&lt;/li&gt;
+&lt;li&gt;Sodium Alginate-Based Bio-Coagulant Beads&lt;/li&gt;
+&lt;li&gt;Glass Beaker for Water Samples&lt;/li&gt;
 &lt;/ul&gt;
-&lt;img src=&#34;http://localhost:1313/Images/double_boiler.jpeg&#34; width=&#34;500&#34;&gt;
-*Figure 1: Double-boiler setup for dissolving sodium alginate.*
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Step 5: Mixing All Powders into the Solution&lt;/strong&gt; – Add all prepared powders into the sodium alginate solution and mix thoroughly.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Step 6: Homogeneous Mixture&lt;/strong&gt; – Continue mixing until a smooth, uniform black slurry is obtained.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Step 7: Dripping into Calcium Chloride Solution&lt;/strong&gt; – Transfer the slurry into a syringe and drop it carefully into a $\text{CaCl}_2$ solution.&lt;/li&gt;
+&lt;h3 data-hextra-search-id=&#34;software&#34;&gt;Software&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;software&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#software&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Arduino IDE with ESP32 Board Package&lt;/li&gt;
+&lt;li&gt;C/C++&lt;/li&gt;
+&lt;li&gt;Arduino IDE Serial Monitor&lt;/li&gt;
 &lt;/ul&gt;
-&lt;img src=&#34;http://localhost:1313/Images/dripping_slurry.jpeg&#34; width=&#34;500&#34;&gt;
-*Figure 2: Dripping biomaterial slurry into Calcium Chloride solution using a syringe.*
+&lt;h2 data-hextra-search-id=&#34;testing-and-results&#34;&gt;Testing and Results&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;testing-and-results&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#testing-and-results&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The system was evaluated across six test cases covering bead formation, treatment efficiency, sensor accuracy, and overall system integration:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Step 8: Bead Formation (Cross-Linking)&lt;/strong&gt; – Allow calcium ions to cross-link with sodium alginate to form stable, spherical hydrogel beads. Leave them in the bath to solidify.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;img src=&#34;http://localhost:1313/Images/beads_in_solution.jpeg&#34; width=&#34;500&#34;&gt;
-*Figure 3: Hydrogel beads curing inside the Calcium Chloride bath.*
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Step 9: Washing&lt;/strong&gt; – Wash the formed beads multiple times with distilled water to remove remaining impurities.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Step 10: Drying&lt;/strong&gt; – Place the beads in a plastic petri dish and dry them completely.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;img src=&#34;http://localhost:1313/Images/drying_beads.jpeg&#34; width=&#34;500&#34;&gt;
-*Figure 4: Synthesized hydrogel beads drying in a plastic petri dish.*
-&lt;p&gt;⚡ IoT Smart Sensor Setup &amp;amp; Qualitative Results
-Hardware Configuration&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;ESP32 Microcontroller:&lt;/strong&gt; Processes sensor input to track water clarity in real time.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Analog Turbidity Sensor:&lt;/strong&gt; Works on a light-scattering mechanism to detect suspended particulate density.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Status LED Output:&lt;/strong&gt; Visual indicators wired directly to the ESP32.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Testing &amp;amp; Visual Outcome&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Procedure:&lt;/strong&gt; 250 mL soil-water samples were treated with equal bead doses, stirred gently for 1 minute, and left to settle for 10–15 minutes.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Observations:&lt;/strong&gt; Rapid floc formation, visible particle settling, and significant recovery of water clarity.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bead formation:&lt;/strong&gt; Beads formed as stable, spherical structures that maintained integrity without disintegration.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Treatment efficiency:&lt;/strong&gt; Contaminated water showed a clear, visible improvement in clarity after treatment.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Turbidity sensor:&lt;/strong&gt; Accurately detected and reported varying turbidity levels across different samples.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ESP32 monitoring:&lt;/strong&gt; Continuously processed and displayed sensor readings without interruption.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LED indication:&lt;/strong&gt; Correctly switched between green (safe turbidity) and red (high turbidity) based on threshold values.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Overall system:&lt;/strong&gt; All components operated together successfully, meeting the project&amp;rsquo;s intended objectives.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;table&gt;
 	&lt;thead&gt;
@@ -119,8 +135,8 @@ Hardware Configuration&lt;/p&gt;
 	&lt;/thead&gt;
 	&lt;tbody&gt;
 			&lt;tr&gt;
-					&lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;http://localhost:1313/Images/contaminated_water.jpeg&#34; width=&#34;300&#34;&gt;&lt;/td&gt;
-					&lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;http://localhost:1313/Images/treated_water.jpeg&#34; width=&#34;300&#34;&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;../../../Images/contaminated_water.png&#34; width=&#34;300&#34;&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;../../../Images/treated_water.png&#34; width=&#34;300&#34;&gt;&lt;/td&gt;
 			&lt;/tr&gt;
 			&lt;tr&gt;
 					&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Raw turbid sample before treatment&lt;/em&gt;&lt;/td&gt;
@@ -128,9 +144,6 @@ Hardware Configuration&lt;/p&gt;
 			&lt;/tr&gt;
 	&lt;/tbody&gt;
 &lt;/table&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Qualitative Indicator:&lt;/strong&gt; Once suspended particles settled and water clarity was restored, the ESP32 triggered the status LED to switch from red to green, signaling successful purification.&lt;/li&gt;
-&lt;/ul&gt;
 &lt;table&gt;
 	&lt;thead&gt;
 			&lt;tr&gt;
@@ -140,8 +153,8 @@ Hardware Configuration&lt;/p&gt;
 	&lt;/thead&gt;
 	&lt;tbody&gt;
 			&lt;tr&gt;
-					&lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;http://localhost:1313/Images/circuit_red_led.jpeg&#34; width=&#34;300&#34;&gt;&lt;/td&gt;
-					&lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;http://localhost:1313/Images/circuit_green_led.jpeg&#34; width=&#34;300&#34;&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;../../../Images/circuit_red_led.png&#34; width=&#34;300&#34;&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;../../../Images/circuit_green_led.jpeg&#34; width=&#34;300&#34;&gt;&lt;/td&gt;
 			&lt;/tr&gt;
 			&lt;tr&gt;
 					&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Red LED active during high turbidity&lt;/em&gt;&lt;/td&gt;
@@ -149,6 +162,40 @@ Hardware Configuration&lt;/p&gt;
 			&lt;/tr&gt;
 	&lt;/tbody&gt;
 &lt;/table&gt;
+&lt;h2 data-hextra-search-id=&#34;applications&#34;&gt;Applications&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;applications&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#applications&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Household water pre-treatment&lt;/strong&gt; — a simple first step to reduce turbidity before further purification.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rural and remote water treatment&lt;/strong&gt; — low-cost, community-level purification without dependence on infrastructure.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Agricultural and irrigation use&lt;/strong&gt; — reduces suspended solids in water used for irrigation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Educational and research use&lt;/strong&gt; — a hands-on tool for studying coagulation, adsorption, and biosorption.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Environmental monitoring&lt;/strong&gt; — real-time turbidity tracking for water bodies.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Emergency and disaster relief&lt;/strong&gt; — a lightweight, portable option for treating water during shortages.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Smart water quality systems&lt;/strong&gt; — combines sustainable purification with IoT-based monitoring.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 data-hextra-search-id=&#34;portable-bio-bead-kit-concept&#34;&gt;Portable Bio-Bead Kit Concept&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;portable-bio-bead-kit-concept&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#portable-bio-bead-kit-concept&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The beads were also designed as a compact, ready-to-use kit — pre-packaged in zip-lock pouches for easy transport and distribution. Requiring no electricity or specialized equipment, the kit is suited for schools, NGOs, and community programs operating in areas with limited infrastructure, offering a low-cost pre-treatment option for water used in irrigation or non-potable applications.&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../../../Images/biobead_kit.jpeg&#34; width=&#34;300&#34;&gt;
+&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;&lt;em&gt;Figure: Pre-packaged portable bio-bead kit (concept visualization, AI-generated).&lt;/em&gt;&lt;/p&gt;
+&lt;h2 data-hextra-search-id=&#34;limitations-and-future-scope&#34;&gt;Limitations and Future Scope&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;limitations-and-future-scope&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#limitations-and-future-scope&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Bead composition, porosity, and controlled-release characteristics can be further optimized for improved treatment performance.&lt;/li&gt;
+&lt;li&gt;Additional sensors — pH, Total Dissolved Solids (TDS), dissolved oxygen, temperature, and conductivity — could be integrated for more comprehensive water quality analysis.&lt;/li&gt;
+&lt;li&gt;IoT connectivity could enable remote monitoring and cloud-based data storage.&lt;/li&gt;
+&lt;li&gt;Future work could extend the system to heavy metal removal, wastewater treatment, and community-scale purification.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 data-hextra-search-id=&#34;relevance-to-sustainable-development-goals&#34;&gt;Relevance to Sustainable Development Goals&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;relevance-to-sustainable-development-goals&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#relevance-to-sustainable-development-goals&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;SDG 3 — Good Health and Well-Being:&lt;/strong&gt; Reduces exposure to contaminated water and supports healthier living conditions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SDG 6 — Clean Water and Sanitation:&lt;/strong&gt; Provides an affordable, eco-friendly approach to improving water clarity.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SDG 9 — Industry, Innovation and Infrastructure:&lt;/strong&gt; Combines biotechnology with smart sensing for an innovative treatment approach.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SDG 12 — Responsible Consumption and Production:&lt;/strong&gt; Converts agricultural waste (banana and orange peels) into a value-added product.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SDG 13 — Climate Action:&lt;/strong&gt; Reduces dependence on synthetic chemicals in favor of biodegradable alternatives.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p align=&#34;center&#34;&gt; &lt;img src=&#34;../../../Images/sdg_collage.png&#34; width=&#34;300&#34;&gt; &lt;/p&gt; &lt;p align=&#34;center&#34;&gt;&lt;em&gt;Figure: Sustainable Development Goals alignment collage.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 data-hextra-search-id=&#34;conclusion&#34;&gt;Conclusion&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;conclusion&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#conclusion&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Building this system bridged biotechnology with practical IoT execution, demonstrating that sustainable agricultural waste can directly solve real-world clean water challenges through smart, local engineering.&lt;/p&gt;
 
       </description>
     </item>

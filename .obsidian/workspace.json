@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/projects/_index.md.md",
+                "file": "content/projects/water-purification/index.md.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "_index.md"
+              "title": "index.md"
             }
           }
         ]
@@ -190,34 +190,36 @@
   },
   "active": "a391cfb4400ac6d7",
   "lastOpenFiles": [
+    "content/projects/_index.md",
     "content/projects/water-purification/index.md.md",
     "content/projects/_index.md.md",
+    "content/projects/index.md",
+    "public/projects/water-purification/index.md/index.html",
+    "public/projects/water-purification/index.md",
+    "public/projects/water-purification",
+    "public/images/treated_water.png",
+    "public/images/sdg_collage.png",
+    "public/images/double_boiler.png",
+    "public/images/circuit_red_led.png",
+    "public/images/biobead_kit.jpeg",
+    "2026-05-15.md",
+    "content/_index.md",
     "content/projects/water-purification",
-    "content/projects/_index.md",
     "content/projects/water-purification",
-    "content/projects/_index.md",
     "static/Images/biobead_kit.jpeg",
     "static/Images/WhatsApp Image 2026-08-27 at 11.19.43 PM.jpeg",
     "static/Images/sdg_collage.png",
     "static/Images/Unconfirmed 729447.crdownload",
     "static/Images/double_boiler.png",
     "static/Images/circuit_red_led.png",
-    "static/Images/treated_water.png",
     "git",
     "content/posts/my-first-test-post.md",
     "content/posts/building_my_portfolio.md",
-    "content/_index.md",
     "layouts/shortcodes/recent-updates.html",
     "layouts/shortcodes/recent-updates.html.txt",
     "layouts/shortcodes/New Text Document.txt",
     "layouts/shortcodes",
-    "layouts/New folder",
-    "layouts/index.html.txt",
     "public/posts/my-first-test-post.md",
-    "static/Images/WRONG.jpeg",
-    "static/Images/WRONG 2.jpeg",
-    "static/Images/WhatsApp Image 2026-07-20 at 10.21.54 PM (1).jpeg",
-    "static/Images/drying_beads.jpeg",
     "content/bookshelf/_index.md",
     "content/posts/_index.md"
   ]

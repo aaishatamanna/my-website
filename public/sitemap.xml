@@ -14,28 +14,10 @@
     <loc>http://localhost:1313/posts/building_my_portfolio/</loc>
     <lastmod>2026-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/biotechnology/</loc>
-    <lastmod>2026-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/esp32/</loc>
-    <lastmod>2026-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/hardware/</loc>
-    <lastmod>2026-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/projects/</loc>
+    <loc>http://localhost:1313/projects/water-purification/index.md/</loc>
     <lastmod>2026-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2026-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/water-purification-monitoring/</loc>
-    <lastmod>2026-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/achievements/</loc>
@@ -44,9 +26,13 @@
   </url><url>
     <loc>http://localhost:1313/bookshelf/</loc>
   </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
     <loc>http://localhost:1313/hobbies/</loc>
   </url><url>
     <loc>http://localhost:1313/research/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/updates/</loc>
   </url>
