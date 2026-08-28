@@ -79,8 +79,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -189,8 +188,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "58ae78d52be4519f",
+  "active": "b2a0047e76a07942",
   "lastOpenFiles": [
+    "layouts/shortcodes/auto-cards.html",
+    "public/achievements/iron-detection-award/index.html",
+    "public/en.search.min.062a5350df1e5f69c6fbdf5af65c8e839c7e2c350d28e6f19b4abbc59fe07600.js",
+    "public/en.search-data.min.e920bc599c2d80dc446eeda6c901f65e8f1cc6ab14cba79324c50ba177b040fc.json",
     "content/_index.md",
     "content/projects/_index.md",
     "content/projects/iron-contamination/index.md.md",
@@ -215,9 +218,6 @@
     "public/en.search.min.d6b79aeeaf58503757be3dc0d1cb5190bcd0d8886d30f1fee95fe37baa612a3e.js",
     "public/en.search-data.min.b5c8bd1940e172c2f7b5929274261f991e91286947fbb99cd4d741b68d4f055c.json",
     "public/en.search.min.90613c74b03090f808eda0887c98442dfa5c81417b24af9c6ada70a7dd41e21b.js",
-    "public/en.search-data.min.30ace2af004420b1cba7f3d927529a50710d4cf2f156f12b6d851ffa3c4390d7.json",
-    "public/en.search.min.feb0766ad96cf1392f819f5d97e9f95df008a11986e60358ac83823b76b43ff2.js",
-    "public/en.search-data.min.2314ef0e3707b84c9cea1f46aaa899893eb440674ee66c7d1ca90ddfa847ce61.json",
     "content/projects/water-purification/index.md.md",
     "public/projects/iron-contamination/index.md",
     "public/images/stimulated_samples.png",
