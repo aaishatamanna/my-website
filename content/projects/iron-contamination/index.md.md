@@ -22,7 +22,7 @@ Conventional iron detection methods, such as spectrophotometry and atomic absorp
 ## Working Principle
 
 The detection method is based on a coordination chemistry reaction:
-$$Fe^{3+} + SCN^- \rightarrow [Fe(SCN)]^{2+} \text{ (blood-red complex)}$$
+ Fe³⁺ + SCN⁻ → [Fe(SCN)]²⁺ (blood-red complex).
 The intensity of the red color produced is directly proportional to the concentration of Fe³⁺ in the sample, allowing for semi-quantitative estimation through visual comparison.
 
 ## Development Process
