@@ -200,5 +200,136 @@
       </description>
     </item>
     
+    <item>
+      <title>Design and Development of a Paper-Based Colorimetric Iron Detection Kit</title>
+      <link>https://aaishaarchive.com/projects/iron-contamination/index.md/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaishaarchive.com/projects/iron-contamination/index.md/</guid>
+      <description>
+        
+        
+        &lt;h2 data-hextra-search-id=&#34;overview&#34;&gt;Overview&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;overview&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#overview&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;This project presents a paper-based analytical device (PAD) for detecting iron (Fe³⁺) in water samples. It repurposes a well-established chemical reaction — potassium thiocyanate (KSCN) reacting with ferric ions to form a blood-red complex — into a compact, field-usable format. The device was developed using the Design Thinking (IDT) framework, with a focus on affordability, portability, and accessibility for resource-limited settings.&lt;/p&gt;
+&lt;h2 data-hextra-search-id=&#34;the-problem&#34;&gt;The Problem&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-problem&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-problem&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Conventional iron detection methods, such as spectrophotometry and atomic absorption spectroscopy, require expensive instrumentation, trained personnel, and laboratory infrastructure. This makes routine water testing impractical in rural or remote areas. There is a clear need for a simple, low-cost method that delivers fast, visually interpretable results without specialized equipment.&lt;/p&gt;
+&lt;h2 data-hextra-search-id=&#34;objectives&#34;&gt;Objectives&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;objectives&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#objectives&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Design a paper-based sensing platform for iron detection&lt;/li&gt;
+&lt;li&gt;Use potassium thiocyanate as a selective reagent for Fe³⁺&lt;/li&gt;
+&lt;li&gt;Produce a visible colorimetric response proportional to iron concentration&lt;/li&gt;
+&lt;li&gt;Apply Design Thinking principles to create an accessible, scalable solution&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 data-hextra-search-id=&#34;working-principle&#34;&gt;Working Principle&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;working-principle&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#working-principle&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The detection method is based on a coordination chemistry reaction:
+$$Fe^{3+} + SCN^- \rightarrow [Fe(SCN)]^{2+} \text{ (blood-red complex)}$$
+The intensity of the red color produced is directly proportional to the concentration of Fe³⁺ in the sample, allowing for semi-quantitative estimation through visual comparison.&lt;/p&gt;
+&lt;h2 data-hextra-search-id=&#34;development-process&#34;&gt;Development Process&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;development-process&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#development-process&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;empathize--define&#34;&gt;Empathize &amp;amp; Define&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;empathize--define&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#empathize--define&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The design process began with identifying the core constraint faced by users in remote regions: no access to laboratory infrastructure or technical training. The problem was defined as the need for a portable, affordable method to detect iron at the point of use.&lt;/p&gt;
+&lt;h3 data-hextra-search-id=&#34;ideate&#34;&gt;Ideate&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ideate&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ideate&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The concept involved converting a conventional liquid-based assay into a solid-state, paper-based format. Potassium thiocyanate was selected for its strong, selective response to Fe³⁺. Whatman filter paper was chosen as the substrate for its capillary action, low cost, and biodegradability.&lt;/p&gt;
+&lt;h3 data-hextra-search-id=&#34;prototype&#34;&gt;Prototype&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;prototype&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#prototype&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The prototype was developed by creating defined reaction zones on filter paper, impregnating them with potassium thiocyanate, and allowing the reagent to dry and stabilize before testing with iron samples of varying concentrations.&lt;/p&gt;
+&lt;h2 data-hextra-search-id=&#34;materials-and-equipment&#34;&gt;Materials and Equipment&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;materials-and-equipment&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#materials-and-equipment&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;materials&#34;&gt;Materials&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;materials&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#materials&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Whatman filter paper (or equivalent substrate)&lt;/li&gt;
+&lt;li&gt;Potassium thiocyanate (KSCN)&lt;/li&gt;
+&lt;li&gt;Standard ferric ion (Fe³⁺) stock solution&lt;/li&gt;
+&lt;li&gt;Distilled water (for dilutions and as a negative control)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 data-hextra-search-id=&#34;equipment&#34;&gt;Equipment&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;equipment&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#equipment&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Test tubes or Erlenmeyer flasks (for preparing simulated samples)&lt;/li&gt;
+&lt;li&gt;Dropper or micropipette&lt;/li&gt;
+&lt;li&gt;Tweezers (for handling treated strips)&lt;/li&gt;
+&lt;li&gt;Protective gloves and laboratory glassware&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 data-hextra-search-id=&#34;procedure&#34;&gt;Procedure&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;procedure&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#procedure&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;step-1-prepare-simulated-water-samples&#34;&gt;Step 1: Prepare Simulated Water Samples&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-1-prepare-simulated-water-samples&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-1-prepare-simulated-water-samples&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Since real drinking water typically contains very low iron levels, simulated samples were prepared at amplified concentrations to ensure clear, visible color differentiation:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Prepare a Fe³⁺ stock solution of known concentration.&lt;/li&gt;
+&lt;li&gt;Dilute the stock with distilled water to create three test samples — 5 mg/L (low), 10 mg/L (moderate), and 15 mg/L (high) — and an unrealistic sample (extremely high).&lt;/li&gt;
+&lt;li&gt;Label each sample clearly (Low, Moderate, High) and keep separate in test tubes or flasks.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../../../Images/stimulated_samples.png&#34; width=&#34;300&#34;&gt;
+&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;&lt;em&gt;Figure: Stimulated samples having low, moderate, high concentrations of iron.&lt;/em&gt;&lt;/p&gt;
+&lt;h3 data-hextra-search-id=&#34;step-2-prepare-the-reagent-treated-strip&#34;&gt;Step 2: Prepare the Reagent-Treated Strip&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-2-prepare-the-reagent-treated-strip&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-2-prepare-the-reagent-treated-strip&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Impregnate defined zones on the filter paper with KSCN solution.&lt;/li&gt;
+&lt;li&gt;Allow the strip to dry completely and stabilize before use.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 data-hextra-search-id=&#34;step-3-run-the-test&#34;&gt;Step 3: Run the Test&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-3-run-the-test&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-3-run-the-test&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;Using tweezers, dip a thiocyanate-treated strip into each prepared sample.&lt;/li&gt;
+&lt;li&gt;Observe the color change on the strip over a few seconds.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../../../Images/dropper_stain.png&#34; width=&#34;300&#34;&gt;
+&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;&lt;em&gt;Figure: Adding the iron sample using a dropper onto a dried filter paper after treating with KSCN.&lt;/em&gt;&lt;/p&gt;
+&lt;ol start=&#34;8&#34;&gt;
+&lt;li&gt;Repeat for each concentration, including the unrealistic sample.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 data-hextra-search-id=&#34;step-4-interpret-results&#34;&gt;Step 4: Interpret Results&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-4-interpret-results&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-4-interpret-results&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol start=&#34;9&#34;&gt;
+&lt;li&gt;Compare the resulting color against a pre-made intensity scale to estimate the iron concentration.&lt;/li&gt;
+&lt;li&gt;Confirm the gradient — pale orange (low) to deep reddish-orange (high).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 data-hextra-search-id=&#34;results&#34;&gt;Results&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;results&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#results&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The kit produced a clear, consistent colorimetric response across all three simulated samples. The 5 mg/L (low) sample showed a pale orange color, the 10 mg/L (moderate) sample showed a stronger orange-red, and the 15 mg/L (high) sample produced a deep reddish-orange to blood-red color — with the unrealistic sample showing an intense red color. This gradient confirmed the sensitivity and reliability of the sensor across a practical concentration range.&lt;/p&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style=&#34;text-align: center&#34;&gt;Final Results Gradient&lt;/th&gt;
+					&lt;th style=&#34;text-align: center&#34;&gt;Strip Color Indication&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;../../../Images/final_results.png&#34; width=&#34;300&#34;&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;../../../Images/paper_stain.png&#34; width=&#34;300&#34;&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Color gradient seen in iron samples&lt;/em&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Strip color indicating presence of iron&lt;/em&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 data-hextra-search-id=&#34;portable-iron-detection-kit-concept&#34;&gt;Portable Iron Detection Kit Concept&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;portable-iron-detection-kit-concept&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#portable-iron-detection-kit-concept&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Beyond the lab-scale prototype, the sensor was also designed with real-world deployment in mind. The kit consists of pre-treated filter paper strips impregnated with potassium thiocyanate reagent, packaged alongside a visual reference chart showing approximate iron concentration in ppm. A user simply applies a water sample to the strip and matches the resulting color against the chart — no equipment, no calibration, no technical training required.&lt;/p&gt;
+&lt;p&gt;This makes the kit especially suited for on-the-spot testing in rural and low-resource communities, where access to high-tech water analysis is often limited or entirely unavailable. By replacing instrumentation with a simple visual comparison, the kit brings reliable, actionable water safety information directly to the people who need it most — right at the source.&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../../../Images/portable_kit.jpeg&#34; width=&#34;300&#34;&gt;
+&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;&lt;em&gt;Figure: Pre-packaged portable Iron Detection kit (concept visualization, AI-generated).&lt;/em&gt;&lt;/p&gt;
+&lt;h2 data-hextra-search-id=&#34;limitations-and-future-scope&#34;&gt;Limitations and Future Scope&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;limitations-and-future-scope&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#limitations-and-future-scope&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The current design selectively detects Fe³⁺ and does not account for Fe²⁺ present in a sample. This can be addressed by introducing an oxidizing agent, such as hydrogen peroxide (H₂O₂), to convert Fe²⁺ to Fe³⁺ — enabling total iron estimation.&lt;/p&gt;
+&lt;p&gt;Planned areas for future development:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A smartphone-based application to quantify color intensity and provide numerical results&lt;/li&gt;
+&lt;li&gt;Expansion to detect total iron content through oxidation chemistry&lt;/li&gt;
+&lt;li&gt;Scaled production for community-level water testing programs&lt;/li&gt;
+&lt;li&gt;Adaptation of the platform to detect other heavy metals and contaminants&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 data-hextra-search-id=&#34;relevance-to-sustainable-development-goals&#34;&gt;Relevance to Sustainable Development Goals&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;relevance-to-sustainable-development-goals&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#relevance-to-sustainable-development-goals&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;SDG 3 — Good Health and Well-being:&lt;/strong&gt; Supports safer drinking water through accessible iron monitoring.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SDG 6 — Clean Water and Sanitation:&lt;/strong&gt; Promotes affordable, accessible water quality testing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../../../Images/sdg_collages.png&#34; width=&#34;300&#34;&gt;
+&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;&lt;em&gt;Figure: Sustainable Development Goals alignment collage.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 data-hextra-search-id=&#34;conclusion&#34;&gt;Conclusion&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;conclusion&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#conclusion&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;This project shows how a well-established laboratory reaction can be reimagined as an accessible, real-world diagnostic tool. By combining chemistry, materials, and a human-centered design process, the iron detection kit offers a practical alternative to conventional testing — one that doesn&amp;rsquo;t rely on expensive instrumentation or specialized training. It was a valuable exercise in taking core biotechnology concepts and applying them to a genuine gap in accessible water testing.&lt;/p&gt;
+
+      </description>
+    </item>
+    
   </channel>
 </rss>

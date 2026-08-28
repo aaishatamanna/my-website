@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/projects/_index.md",
+                "file": "content/projects/iron-contamination/index.md.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "index.md"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 263.5
   },
   "right": {
     "id": "29f3c4d190dc2dd4",
@@ -190,33 +190,36 @@
   },
   "active": "a391cfb4400ac6d7",
   "lastOpenFiles": [
+    "public/projects/iron-contamination/index.md/index.html",
+    "public/projects/iron-contamination/index.md",
+    "public/projects/iron-contamination",
+    "public/en.search.min.1f91dc3cf2b195d767a71512e50ed760922930bb2559a3bb95383bff09617b09.js",
+    "public/en.search-data.min.e4f7ae9e340f76b3930671db187f7ccb26e7d0ed8512cb2b49d7c642507e0b49.json",
+    "public/images/stimulated_samples.png",
+    "public/images/sdg_collages.png",
+    "public/images/portable_kit.jpeg",
+    "public/images/paper_stain.png",
+    "public/images/final_results.png",
+    "public/images/dropper_stain.png",
     "content/projects/water-purification/index.md.md",
+    "content/projects/iron-contamination/index.md.md",
+    "static/Images/sdg_collages.png",
+    "static/Images/portable_kit.jpeg",
+    "static/Images/WhatsApp Image 2026-08-28 at 10.01.39 PM.jpeg",
+    "static/Images/final_results.png",
+    "content/projects/_index.md",
+    "content/projects/iron-contamination",
     "public/en.search-dialog.min.fda123910557b5b3a328696105af51f85abc3cfc6784387c49b11b5b857b256f.js",
     "public/en.search.min.45eab5c44ecdaa281e992ccd4588cda43ba0286c37b177f2fd4e63873bf04041.js",
     "public/en.search-data.min.fce8baf3e9afa1945b08055fdbe76ddd6e40d157221645e560136ad40f250817.json",
     "public/js/flexsearch.433e941a8a573ebb9931fc16fc75266ab6b93f569ac2fb4f3dc66882e0416f4c.js",
     "public/js/main.min.f1c694920359e328c628cb95fb86316be3f5ee2257d8c27525f7970e40160581.js",
     "public/js/main-head.min.bbb353731723c08eaf67b231610392e3665384806ddb6bee51d4a965494c762e.js",
-    "public/css/compiled/main.min.499636f59854c2ab4e81e0be798533242c36b6871830f2f6f69697c4567c8c53.css",
-    "content/projects/_index.md",
     "content/projects/_index.md.md",
     "content/projects/index.md",
-    "public/projects/water-purification/index.md/index.html",
     "public/projects/water-purification/index.md",
-    "public/projects/water-purification",
-    "public/images/treated_water.png",
-    "public/images/sdg_collage.png",
-    "public/images/double_boiler.png",
-    "public/images/circuit_red_led.png",
-    "public/images/biobead_kit.jpeg",
     "2026-05-15.md",
     "content/_index.md",
-    "content/projects/water-purification",
-    "static/Images/biobead_kit.jpeg",
-    "static/Images/WhatsApp Image 2026-08-27 at 11.19.43 PM.jpeg",
-    "static/Images/sdg_collage.png",
-    "static/Images/double_boiler.png",
-    "static/Images/circuit_red_led.png",
     "content/posts/my-first-test-post.md",
     "content/posts/building_my_portfolio.md",
     "public/posts/my-first-test-post.md",
