@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/projects/water-purification/index.md.md",
+                "file": "content/projects/_index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index.md"
+              "title": "_index"
             }
           }
         ]
@@ -190,6 +190,7 @@
   },
   "active": "a391cfb4400ac6d7",
   "lastOpenFiles": [
+    "content/projects/water-purification/index.md.md",
     "public/en.search-dialog.min.fda123910557b5b3a328696105af51f85abc3cfc6784387c49b11b5b857b256f.js",
     "public/en.search.min.45eab5c44ecdaa281e992ccd4588cda43ba0286c37b177f2fd4e63873bf04041.js",
     "public/en.search-data.min.fce8baf3e9afa1945b08055fdbe76ddd6e40d157221645e560136ad40f250817.json",
@@ -198,7 +199,6 @@
     "public/js/main-head.min.bbb353731723c08eaf67b231610392e3665384806ddb6bee51d4a965494c762e.js",
     "public/css/compiled/main.min.499636f59854c2ab4e81e0be798533242c36b6871830f2f6f69697c4567c8c53.css",
     "content/projects/_index.md",
-    "content/projects/water-purification/index.md.md",
     "content/projects/_index.md.md",
     "content/projects/index.md",
     "public/projects/water-purification/index.md/index.html",
@@ -211,7 +211,6 @@
     "public/images/biobead_kit.jpeg",
     "2026-05-15.md",
     "content/_index.md",
-    "content/projects/water-purification",
     "content/projects/water-purification",
     "static/Images/biobead_kit.jpeg",
     "static/Images/WhatsApp Image 2026-08-27 at 11.19.43 PM.jpeg",
