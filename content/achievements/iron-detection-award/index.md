@@ -1,49 +1,48 @@
 ---
 title: "1st Place: IDT Project Competition"
+date: 2026-09-01
 description: "Awarded 1st place and ₹500 cash prize for the Paper-Based Colorimetric Iron Detection Kit."
-date: 2026-01-09
 ---
 
-<div style="max-width: 470px; margin: 1.5rem auto; border: 1px solid #262626; border-radius: 12px; background: #000; color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.5);">
+<div style="background-color: #0d0d0d; border: 1px solid #222; border-radius: 12px; padding: 16px; max-width: 500px; margin: 0 auto; color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
 
-<div style="display: flex; align-items: center; justify-content: space-between; padding: 12px 16px; border-bottom: 1px solid #121212;">
-<div style="display: flex; align-items: center; gap: 10px;">
-<div style="width: 36px; height: 36px; border-radius: 50%; background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888); padding: 2px;">
-<div style="width: 100%; height: 100%; background: #000; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 13px;">
-AT
-</div>
-</div>
-<div>
-<div style="font-weight: 600; font-size: 13px;">PAT</div>
-<div style="font-size: 11px; color: #a8a8a8;">Bengaluru, India</div>
-</div>
-</div>
-</div>
+  <!-- Post Top Header Bar (Black PAT Logo Avatar + Location) -->
+  <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px;">
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <div style="width: 36px; height: 36px; border-radius: 50%; background-color: #000000; border: 1px solid #333; color: #fff; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 0.85rem;">
+        PAT
+      </div>
+      <div>
+        <div style="font-weight: 600; font-size: 0.9rem; line-height: 1.2;">PAT</div>
+        <div style="font-size: 0.75rem; color: #888; line-height: 1.2;">Bangalore, India</div>
+      </div>
+    </div>
+    <div style="color: #888; font-weight: bold; cursor: pointer;">•••</div>
+  </div>
 
-<div style="width: 100%; background: #000; display: flex; justify-content: center; overflow: hidden;">
-<img src="idt_win_first.png" alt="IDT Prize Announcement" style="width: 100%; height: auto; max-height: 520px; object-fit: contain; display: block;" />
-</div>
+  <!-- Post Image Container -->
+  <div style="width: 100%; max-height: 420px; border-radius: 8px; overflow: hidden; margin-bottom: 16px; display: flex; align-items: center; justify-content: center; background-color: #000;">
+    <img src="idt_win_first.png" alt="IDT Award Announcement" style="max-width: 100%; max-height: 420px; width: auto; height: auto; object-fit: contain;" />
+  </div>
 
-<div style="padding: 14px 16px; font-size: 13px; line-height: 1.4;">
-<div style="font-weight: 600; font-size: 14px; margin-bottom: 6px;">
-🥇 1st Place — IDT Showcase
-</div>
+  <!-- Post Content Header -->
+  <h3 style="margin: 0 0 8px 0; font-size: 1.1rem; font-weight: 600; color: #fff;">
+    🥇 1st Place — IDT Showcase
+  </h3>
 
-Secured <b>1st Place</b> in the 1st-Semester Innovation & Design Thinking showcase for developing a paper-based colorimetric iron detection kit, featuring a <b>₹500 cash prize</b>.
+  <!-- Post Caption -->
+  <p style="margin: 0 0 16px 0; font-size: 0.95rem; line-height: 1.5; color: #ccc;">
+    Secured <b>1st Place</b> in the 1st-Semester Innovation & Design Thinking showcase for developing a paper-based colorimetric iron detection kit, featuring a <b>₹500 cash prize</b>.
+  </p>
 
-<div style="margin-top: 14px; margin-bottom: 6px;">
-<a href="/projects/iron-contamination/" style="display: block; text-align: center; background: #0095f6; color: #ffffff; text-decoration: none; font-weight: 600; font-size: 13px; padding: 8px 12px; border-radius: 8px;">
-View Project Documentation →
-</a>
-</div>
+  <!-- Clean Action Button -->
+  <a href="/projects/iron-contamination/" style="display: block; width: 100%; text-align: center; background-color: #0088ff; color: #ffffff; padding: 12px 0; border-radius: 8px; font-weight: 600; text-decoration: none; box-sizing: border-box;">
+    View Project Documentation →
+  </a>
 
-<div style="color: #0095f6; margin-top: 10px; font-size: 12px;">
-#Biotechnology #Innovation #DesignThinking #Award
-</div>
-
-<div style="color: #737373; font-size: 10px; margin-top: 10px; text-transform: uppercase;">
-January 9, 2026
-</div>
-</div>
+  <!-- Hashtags -->
+  <p style="margin: 12px 0 0 0; font-size: 0.85rem; color: #0088ff;">
+    #Biotechnology #Innovation #DesignThinking #Award
+  </p>
 
 </div>
