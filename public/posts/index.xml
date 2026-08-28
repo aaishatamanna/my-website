@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aaisha&#39;s Archive – Blog</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://aaishaarchive.com/posts/</link>
     <description>Recent content in Blog on Aaisha&#39;s Archive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://aaishaarchive.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Testing My Automated Digital Garden Cards 🧪✨</title>
-      <link>http://localhost:1313/posts/my-first-test-post/</link>
+      <link>https://aaishaarchive.com/posts/my-first-test-post/</link>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/my-first-test-post/</guid>
+      <guid>https://aaishaarchive.com/posts/my-first-test-post/</guid>
       <description>
         
         
@@ -31,10 +31,10 @@
     
     <item>
       <title>Setting Up My Digital Garden: Why &amp; How I Built This Site 🌿</title>
-      <link>http://localhost:1313/posts/building_my_portfolio/</link>
+      <link>https://aaishaarchive.com/posts/building_my_portfolio/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/building_my_portfolio/</guid>
+      <guid>https://aaishaarchive.com/posts/building_my_portfolio/</guid>
       <description>
         
         

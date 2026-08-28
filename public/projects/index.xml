@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aaisha&#39;s Archive – Projects</title>
-    <link>http://localhost:1313/projects/</link>
+    <link>https://aaishaarchive.com/projects/</link>
     <description>Recent content in Projects on Aaisha&#39;s Archive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 May 2026 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://aaishaarchive.com/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Multifunctional Biodegradable Biobeads for Smart Water Purification Systems</title>
-      <link>http://localhost:1313/projects/water-purification/index.md/</link>
+      <link>https://aaishaarchive.com/projects/water-purification/index.md/</link>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/water-purification/index.md/</guid>
+      <guid>https://aaishaarchive.com/projects/water-purification/index.md/</guid>
       <description>
         
         
