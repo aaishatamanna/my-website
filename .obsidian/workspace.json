@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278
+    "width": 200
   },
   "right": {
     "id": "29f3c4d190dc2dd4",
@@ -188,13 +188,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "a391cfb4400ac6d7",
+  "active": "b2a0047e76a07942",
   "lastOpenFiles": [
-    "content/projects/water-purification.md/index.md.md",
+    "content/projects/water-purification/index.md.md",
     "content/projects/_index.md.md",
-    "content/projects/water-purification.md",
+    "content/projects/water-purification",
     "content/projects/_index.md",
-    "content/projects/water-purification.md",
+    "content/projects/water-purification",
     "content/projects/_index.md",
     "static/Images/biobead_kit.jpeg",
     "static/Images/WhatsApp Image 2026-08-27 at 11.19.43 PM.jpeg",
