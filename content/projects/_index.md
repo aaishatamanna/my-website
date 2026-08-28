@@ -7,4 +7,5 @@ breadcrumbs: false
 
 Welcome to my portfolio. Here is a curated selection of my technical builds, combining biotechnology, sensors, and hardware.
 
-{{< auto-cards >}}
+
+{{% auto-cards %}}

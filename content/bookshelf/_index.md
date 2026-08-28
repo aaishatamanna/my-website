@@ -7,4 +7,4 @@ breadcrumbs: false
 
 A curated selection of book summaries, technical reading notes, and personal recommendations.
 
-{{< auto-cards >}}
+{{% auto-cards %}}

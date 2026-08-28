@@ -7,4 +7,4 @@ breadcrumbs: false
 
 A collection of academic research, laboratory documentation, and technical analysis.
 
-{{< auto-cards >}}
+{{% auto-cards %}}
