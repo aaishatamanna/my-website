@@ -6,8 +6,4 @@ type: docs
 
 Welcome to my portfolio. Here is a curated selection of my technical builds, combining biotechnology, sensors, and hardware.
 
-{{< cards >}}
-  {{ range .Pages }}
-    {{< card link=.RelPermalink title=.Title subtitle=.Params.description >}}
-  {{ end }}
-{{< /cards >}}
+{{% auto-cards %}}
