@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/achievements/_index.md",
+                "file": "content/research/_index.md",
                 "mode": "source",
                 "source": true
               },
@@ -190,6 +190,9 @@
   },
   "active": "a391cfb4400ac6d7",
   "lastOpenFiles": [
+    "content/bookshelf/_index.md",
+    "content/art/_index.md",
+    "content/achievements/_index.md",
     "public/en.search.min.d6b79aeeaf58503757be3dc0d1cb5190bcd0d8886d30f1fee95fe37baa612a3e.js",
     "public/en.search-data.min.b5c8bd1940e172c2f7b5929274261f991e91286947fbb99cd4d741b68d4f055c.json",
     "content/projects/_index.md",
@@ -205,7 +208,6 @@
     "content/projects/iron-contamination/index.md.md",
     "layouts/shortcodes/auto-cards.html.md",
     "public/en.search.min.7c456bc649dd2783af522e2da4203aa0f79a8214de2e6b45d59e943c259d2e03.js",
-    "public/en.search-data.min.928a97a9fa1aa0a3457f382f5ff8a1e6f19f96f04ef5e69fed53d7d2adbfb7ef.json",
     "content/posts/my-first-test-post.md",
     "public/projects/iron-contamination/index.md",
     "public/images/stimulated_samples.png",
@@ -224,7 +226,6 @@
     "2026-05-15.md",
     "content/posts/building_my_portfolio.md",
     "public/posts/my-first-test-post.md",
-    "content/bookshelf/_index.md",
     "content/posts/_index.md"
   ]
 }

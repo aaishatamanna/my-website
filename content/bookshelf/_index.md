@@ -1,5 +1,10 @@
 ---
-title: "Bookshelf"
+title: Bookshelf
+description: Reading notes, reviews, and literary takeaways.
+type: docs
+breadcrumbs: false
 ---
 
-Welcome to my personal bookshelf! 📖 Here is where I track my reading takeaways, plot analyses, and thoughts on books across thriller, fiction, and growth.
+A curated selection of book summaries, technical reading notes, and personal recommendations.
+
+{{< auto-cards >}}
