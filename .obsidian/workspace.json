@@ -188,7 +188,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "b2a0047e76a07942",
+  "active": "a391cfb4400ac6d7",
   "lastOpenFiles": [
     "content/projects/water-purification/index.md.md",
     "content/projects/_index.md.md",
@@ -213,7 +213,6 @@
     "layouts/shortcodes",
     "layouts/New folder",
     "layouts/index.html.txt",
-    "public/posts/my-first-test-post/index.html",
     "public/posts/my-first-test-post.md",
     "static/Images/WRONG.jpeg",
     "static/Images/WRONG 2.jpeg",
