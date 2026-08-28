@@ -1,6 +1,6 @@
 ---
 title: "1st Place: IDT Project Competition"
-date: 2026-09-01
+date: 2026-01-09
 description: "Awarded 1st place and ₹500 cash prize for the Paper-Based Colorimetric Iron Detection Kit."
 ---
 
@@ -20,7 +20,7 @@ description: "Awarded 1st place and ₹500 cash prize for the Paper-Based Colori
     <div style="color: #888; font-weight: bold; cursor: pointer;">•••</div>
   </div>
 
-  <!-- Post Image Container -->
+  <!-- Post Image Container (Max Height Constrained) -->
   <div style="width: 100%; max-height: 420px; border-radius: 8px; overflow: hidden; margin-bottom: 16px; display: flex; align-items: center; justify-content: center; background-color: #000;">
     <img src="idt_win_first.png" alt="IDT Award Announcement" style="max-width: 100%; max-height: 420px; width: auto; height: auto; object-fit: contain;" />
   </div>
@@ -35,7 +35,7 @@ description: "Awarded 1st place and ₹500 cash prize for the Paper-Based Colori
     Secured <b>1st Place</b> in the 1st-Semester Innovation & Design Thinking showcase for developing a paper-based colorimetric iron detection kit, featuring a <b>₹500 cash prize</b>.
   </p>
 
-  <!-- Clean Action Button -->
+  <!-- Clean Action Button (Targeting Live Documentation Page) -->
   <a href="/projects/iron-contamination/" style="display: block; width: 100%; text-align: center; background-color: #0088ff; color: #ffffff; padding: 12px 0; border-radius: 8px; font-weight: 600; text-decoration: none; box-sizing: border-box;">
     View Project Documentation →
   </a>

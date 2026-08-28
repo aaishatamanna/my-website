@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/achievements/iron-detection-award/index.md",
-                "mode": "preview",
+                "file": "content/achievements/_index.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "_index"
             }
           }
         ]
@@ -190,6 +190,9 @@
   },
   "active": "a391cfb4400ac6d7",
   "lastOpenFiles": [
+    "content/achievements/iron-detection-award/index.md",
+    "public/en.search.min.70fd4931b61e0109e4a98550997b382277b14311728d4fd869d0e0170d8974d5.js",
+    "public/en.search-data.min.aaf319b3b4632377048d8b69ff2f5ed7981d75587214cd699c466f6a8dd9ae05.json",
     "content/achievements/iron-detection-award/idt_win_first.png",
     "content/achievements/_index.md",
     "content/projects/_index.md",
@@ -202,7 +205,6 @@
     "content/_index.md",
     "content/projects/iron-contamination/index.md.md",
     "content/bookshelf/_index.md",
-    "content/achievements/iron-detection-award/index.md",
     "content/achievements/iron-detection-award/index.md.md",
     "content/art/_index.md",
     "public/achievements/iron-detection-award/idt_win_first.png",
@@ -215,8 +217,6 @@
     "layouts/shortcodes/auto-cards.html.md",
     "content/achievements/~$on-detection-award.md",
     "content/research/_index.md",
-    "public/en.search.min.957b5a6121d963d8b3582fb2e015011fec2344480c972f445d7e6893af2d2607.js",
-    "public/en.search-data.min.7d45f206bb9615c012e2c5b5833b4bfbf82b2f2ddc8553dec430371f67b25c9a.json",
     "content/projects/water-purification/index.md.md",
     "public/projects/iron-contamination/index.md",
     "public/images/stimulated_samples.png",
