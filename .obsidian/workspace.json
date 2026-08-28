@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/projects/iron-contamination/index.md.md",
+                "file": "content/projects/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index.md"
+              "title": "_index"
             }
           }
         ]
@@ -190,6 +190,11 @@
   },
   "active": "a391cfb4400ac6d7",
   "lastOpenFiles": [
+    "public/en.search.min.7c456bc649dd2783af522e2da4203aa0f79a8214de2e6b45d59e943c259d2e03.js",
+    "public/en.search-data.min.928a97a9fa1aa0a3457f382f5ff8a1e6f19f96f04ef5e69fed53d7d2adbfb7ef.json",
+    "content/_index.md",
+    "content/projects/_index.md",
+    "content/projects/iron-contamination/index.md.md",
     "public/en.search.min.9f7d0294b79af17b18f2686c33bf3c81355ce10695f29c836bdf8f85c60409c8.js",
     "public/en.search-data.min.72ac3b2caa4b1cb97759297713f95d9c74b9b01bee15d3815f88c710f4164009.json",
     "public/en.search.min.f3c1a2982b7269fa77c0e90013538e7d0fb9663ef14da987235f7044c62c40e5.js",
@@ -197,12 +202,10 @@
     "public/en.search.min.0e49e3449de52f0cfabd85c5767e6db568451fc5f59134946b6ec0a677618a5e.js",
     "public/en.search-data.min.495af5387b7d35879f07434e9cc0fd5519fab08708f20a7f3bf98b716bc58f51.json",
     "content/posts/my-first-test-post.md",
-    "content/projects/iron-contamination/index.md.md",
     "public/projects/iron-contamination/index.md/index.html",
     "public/projects/iron-contamination/index.md",
     "public/projects/iron-contamination",
     "public/en.search.min.1f91dc3cf2b195d767a71512e50ed760922930bb2559a3bb95383bff09617b09.js",
-    "public/en.search-data.min.e4f7ae9e340f76b3930671db187f7ccb26e7d0ed8512cb2b49d7c642507e0b49.json",
     "public/images/stimulated_samples.png",
     "public/images/sdg_collages.png",
     "public/images/portable_kit.jpeg",
@@ -214,13 +217,10 @@
     "static/Images/portable_kit.jpeg",
     "static/Images/WhatsApp Image 2026-08-28 at 10.01.39 PM.jpeg",
     "static/Images/final_results.png",
-    "content/projects/_index.md",
-    "content/projects/iron-contamination",
     "content/projects/_index.md.md",
     "content/projects/index.md",
     "public/projects/water-purification/index.md",
     "2026-05-15.md",
-    "content/_index.md",
     "content/posts/building_my_portfolio.md",
     "public/posts/my-first-test-post.md",
     "content/bookshelf/_index.md",
