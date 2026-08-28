@@ -221,9 +221,9 @@
 &lt;li&gt;Apply Design Thinking principles to create an accessible, scalable solution&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 data-hextra-search-id=&#34;working-principle&#34;&gt;Working Principle&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;working-principle&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#working-principle&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The detection method is based on a coordination chemistry reaction:
-Fe³⁺ + SCN⁻ → [Fe(SCN)]²⁺ (blood-red complex).
-The intensity of the red color produced is directly proportional to the concentration of Fe³⁺ in the sample, allowing for semi-quantitative estimation through visual comparison.&lt;/p&gt;
+    &lt;a href=&#34;#working-principle&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The detection method is based on a coordination chemistry reaction:&lt;/p&gt;
+&lt;p&gt;Fe³⁺ + SCN⁻ → [Fe(SCN)]²⁺ (blood-red complex).&lt;/p&gt;
+&lt;p&gt;The intensity of the red color produced is directly proportional to the concentration of Fe³⁺ in the sample, allowing for semi-quantitative estimation through visual comparison.&lt;/p&gt;
 &lt;h2 data-hextra-search-id=&#34;development-process&#34;&gt;Development Process&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;development-process&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#development-process&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;empathize--define&#34;&gt;Empathize &amp;amp; Define&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;empathize--define&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#empathize--define&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The design process began with identifying the core constraint faced by users in remote regions: no access to laboratory infrastructure or technical training. The problem was defined as the need for a portable, affordable method to detect iron at the point of use.&lt;/p&gt;
