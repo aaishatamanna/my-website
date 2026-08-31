@@ -189,8 +189,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "a391cfb4400ac6d7",
+  "active": "b2a0047e76a07942",
   "lastOpenFiles": [
+    "static/Images/idt_proof.jpeg",
+    "static/Images/WhatsApp Image 2026-08-29 at 12.35.41 AM (1).jpeg",
     "public/index.xml",
     "public/updates/index.xml",
     "public/updates/index.html",
@@ -201,7 +203,6 @@
     "public/research/index.xml",
     "public/research/index.html",
     "public/research",
-    "public/projects/water-purification/index.md/index.html",
     "public/projects/water-purification/index.md",
     "public/projects/iron-contamination/index.md",
     "content/achievements/iron-detection-award/index.md",
@@ -228,7 +229,6 @@
     "public/images/paper_stain.png",
     "public/images/final_results.png",
     "public/images/dropper_stain.png",
-    "static/Images/sdg_collages.png",
     "content/projects/index.md",
     "2026-05-15.md",
     "content/posts/building_my_portfolio.md",
