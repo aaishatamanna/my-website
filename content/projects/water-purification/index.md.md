@@ -4,6 +4,27 @@ date: 2026-05-15
 description: An IoT-enabled water filtration and quality monitoring prototype combining Moringa oleifera seed powder hydrogel beads with an ESP32 microcontroller.
 ---
 
+<div style="background-color: #111; border: 1px solid #333; border-radius: 12px; padding: 20px; margin-bottom: 30px;">
+  <h3 style="margin-top: 0; color: #fff; font-size: 1.2rem;">📂 Project Overview & Deliverables</h3>
+  
+  <ul style="color: #ccc; font-size: 0.95rem; line-height: 1.6; padding-left: 20px; margin-bottom: 20px;">
+    <li><b>Team Members:</b> Aaisha, Palak, Pranitha, Vidhatri, Sonakshi, Varsha</li>
+    <li><b>Occasion & Event:</b> 2nd sem Inter Disciplinary Project</li>
+    <li><b>Completion Date:</b> May 31, 2026</li>
+  </ul>
+
+  <p style="color: #bbb; font-size: 0.95rem; margin-bottom: 16px;">Access the complete academic report and presentation slides compiled for the water purification and heavy metal removal biobeads project.</p>
+  
+  <div style="display: flex; gap: 12px; flex-wrap: wrap;">
+    <a href="/documents/water-purification-report.pdf" target="_blank" style="background-color: #0088ff; color: #fff; padding: 10px 16px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.9rem;">
+      📄 View Full Project Report (PDF)
+    </a>
+    <a href="/documents/water-purification-presentation.pdf" target="_blank" style="background-color: #0088ff; color: #fff; padding: 10px 16px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.9rem;">
+      📊 View Presentation Slides (in PDF)
+    </a>
+  </div>
+</div>
+
 ## Overview
 
 This project presents biodegradable hydrogel bio-beads formulated from natural materials — Moringa seed powder, banana peel powder, orange peel powder, and activated charcoal — encapsulated within a sodium alginate matrix. These beads purify contaminated water through combined coagulation, adsorption, and biosorption mechanisms. A smart monitoring system, built using an ESP32 microcontroller and turbidity sensor, was integrated to evaluate purification performance through real-time turbidity tracking.
