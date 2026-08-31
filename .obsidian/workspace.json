@@ -191,6 +191,9 @@
   },
   "active": "a391cfb4400ac6d7",
   "lastOpenFiles": [
+    "static/documents/iron-contamination-report.pdf",
+    "static/documents/iron-contamination-presentation.pdf",
+    "static/documents",
     "content/achievements/_index.md",
     "public/images/idt_proof.jpeg",
     "static/Images/idt_proof.jpeg",
@@ -203,8 +206,6 @@
     "public/tags/index.html",
     "public/tags",
     "public/research/index.xml",
-    "public/research/index.html",
-    "public/research",
     "public/projects/water-purification/index.md",
     "public/projects/iron-contamination/index.md",
     "content/achievements/iron-detection-award/index.md",
