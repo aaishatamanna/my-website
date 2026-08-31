@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/achievements/_index.md",
-                "mode": "source",
+                "file": "content/projects/iron-contamination/index.md.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "index.md"
             }
           }
         ]
@@ -189,8 +189,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "b2a0047e76a07942",
+  "active": "a391cfb4400ac6d7",
   "lastOpenFiles": [
+    "content/achievements/_index.md",
+    "public/images/idt_proof.jpeg",
     "static/Images/idt_proof.jpeg",
     "static/Images/WhatsApp Image 2026-08-29 at 12.35.41 AM (1).jpeg",
     "public/index.xml",
@@ -207,7 +209,6 @@
     "public/projects/iron-contamination/index.md",
     "content/achievements/iron-detection-award/index.md",
     "content/achievements/iron-detection-award/idt_win_first.png",
-    "content/achievements/_index.md",
     "content/projects/_index.md",
     "content/_index.md",
     "content/projects/iron-contamination/index.md.md",
@@ -227,8 +228,6 @@
     "public/images/sdg_collages.png",
     "public/images/portable_kit.jpeg",
     "public/images/paper_stain.png",
-    "public/images/final_results.png",
-    "public/images/dropper_stain.png",
     "content/projects/index.md",
     "2026-05-15.md",
     "content/posts/building_my_portfolio.md",
